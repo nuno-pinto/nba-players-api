@@ -7,15 +7,20 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.ProtocolException;
+import java.net.URL;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
+import java.util.zip.GZIPInputStream;
 
 public class NBAJsonParser {
 
@@ -24,11 +29,23 @@ public class NBAJsonParser {
 
     public void parseJson(String originJson, String finalJson) {
 
+        System.out.println("Downloading Json from nba.com...");
+
+        downloadPlayersJson(originJson);
+
+        System.out.println("Reading Json...");
+
         JSONArray rowSet = accessRowSet(originJson);
+
+        System.out.println("Converting Json to players...");
 
         playerList = rowSetToList(rowSet);
 
+        System.out.println("Converting players to updated Json...");
+
         listToJson(playerList, finalJson);
+
+        System.out.println("Creating teams...");
 
         teamList = createTeams(playerList);
 
@@ -126,16 +143,43 @@ public class NBAJsonParser {
 
     }
 
-    private void downloadPictures(List<Player> playerList) {
+    private void downloadPlayersJson(String filePath) {
 
+        try {
 
-//
-//        try {
-//
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        }
-//
+            String requestUrl = "https://stats.nba.com/stats/playerindex?College=&Country=&DraftPick=&DraftRound=&DraftYear=&Height=&Historical=1&LeagueID=00&Season=2023-24&SeasonType=Regular%20Season&TeamID=0&Weight=";
+
+            URL url = new URL(requestUrl);
+            HttpURLConnection con = (HttpURLConnection) url.openConnection();
+            con.setRequestMethod("GET");
+
+            con.setRequestProperty("Accept", "*/*");
+            con.setRequestProperty("Accept-Encoding", "gzip, deflate, br");
+            con.setRequestProperty("Accept-Language", "en-US,en;q=0.8");
+            con.setRequestProperty("Connection", "keep-alive");
+            con.setRequestProperty("Host", "stats.nba.com");
+            con.setRequestProperty("Origin", "https://www.nba.com");
+            con.setRequestProperty("Referer", "https://www.nba.com/");
+            con.setRequestProperty("Sec-Ch-Ua", "\"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Brave\";v=\"120\"");
+            con.setRequestProperty("Sec-Ch-Ua-Mobile", "?0");
+            con.setRequestProperty("Sec-Ch-Ua-Platform", "\"Linux\"");
+            con.setRequestProperty("Sec-Fetch-Dest", "empty");
+            con.setRequestProperty("Sec-Fetch-Mode", "cors");
+            con.setRequestProperty("Sec-Fetch-Site", "same-site");
+            con.setRequestProperty("Sec-Gpc", "1");
+            con.setRequestProperty("User-Agent", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36");
+
+            InputStream inputStream = new GZIPInputStream(con.getInputStream());
+
+            Files.copy(inputStream, Paths.get(filePath), StandardCopyOption.REPLACE_EXISTING);
+
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+        } catch (ProtocolException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
 
     }
