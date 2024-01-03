@@ -1,11 +1,9 @@
 package com.nbaapp;
 
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.nbaapp.models.Player;
 import com.nbaapp.models.Team;
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
 
 import java.io.*;
 import java.net.HttpURLConnection;
@@ -15,11 +13,7 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
+import java.util.*;
 import java.util.zip.GZIPInputStream;
 
 public class NBAJsonParser {
@@ -27,19 +21,16 @@ public class NBAJsonParser {
     private List<Player> playerList;
     private List<Team> teamList;
 
+
     public void parseJson(String originJson, String finalJson) {
 
         System.out.println("Downloading Json from nba.com...");
 
         downloadPlayersJson(originJson);
 
-        System.out.println("Reading Json...");
-
-        JSONArray rowSet = accessRowSet(originJson);
-
         System.out.println("Converting Json to players...");
 
-        playerList = rowSetToList(rowSet);
+        playerList = jsonToList(originJson);
 
         System.out.println("Converting players to updated Json...");
 
@@ -49,80 +40,56 @@ public class NBAJsonParser {
 
         teamList = createTeams(playerList);
 
-     }
+    }
 
-    private JSONArray accessRowSet(String jsonPath) {
+    private List<Player> jsonToList(String originJson) {
 
-        JSONParser jsonParser = new JSONParser();
-
-        JSONArray rowSet = null;
+        List<Player> players = new ArrayList<>();
 
         try {
 
-            FileReader reader = new FileReader(jsonPath);
+            ObjectMapper mapper = new ObjectMapper();
 
-            JSONObject initObj = (JSONObject) jsonParser.parse(reader);
+            JsonNode rootNode = mapper.readTree(new File(originJson));
 
-            JSONArray resultSets = (JSONArray) initObj.get("resultSets");
+            JsonNode rowSetNode = rootNode.get("resultSets").get(0).get("rowSet");
 
-            JSONObject secondObj = (JSONObject) resultSets.get(0);
+            rowSetNode.forEach(playerNode -> {
 
-            rowSet = (JSONArray) secondObj.get("rowSet");
+                if (playerNode.get(25).asText().equals("2023")) {
 
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
+                    players.add(new Player(
+                            Integer.parseInt(playerNode.get(0).asText()),
+                            playerNode.get(2).asText() + " " + playerNode.get(1).asText(),
+                            playerNode.get(11).asText(),
+                            Integer.parseInt(playerNode.get(4).asText()),
+                            playerNode.get(7).asText() + " " + playerNode.get(8).asText()
+                    ));
+                }
+
+            });
+
         } catch (IOException e) {
-            e.printStackTrace();
-        } catch (ParseException e) {
             e.printStackTrace();
         }
 
-        return rowSet;
+        return players;
     }
 
-    @SuppressWarnings("unchecked")
-    private List<Player> rowSetToList(JSONArray rowSet) {
 
-        return (List<Player>) rowSet.stream()
-                .filter(elm -> elm instanceof JSONArray && ((JSONArray) elm).get(25).equals("2023"))
-                .map(elm -> {
-                    JSONArray player = (JSONArray) elm;
-                    return new Player(
-                            Integer.parseInt(player.get(0).toString()),
-                            player.get(2) + " " + player.get(1),
-                            player.get(11).toString(),
-                            player.get(7) + " " + player.get(8),
-                            Integer.parseInt(player.get(4).toString())
-                    );
-                })
-                .collect(Collectors.toList());
-
-    }
-
-    @SuppressWarnings("unchecked")
     private void listToJson(List<Player> playerList, String jsonPath) {
 
-        JSONArray arr = new JSONArray();
-
-        playerList.forEach(player -> {
-
-            JSONObject jsonPlayer = new JSONObject();
-            jsonPlayer.put("id", player.getId());
-            jsonPlayer.put("name", player.getName());
-            jsonPlayer.put("picture", player.getId() + ".png");
-            jsonPlayer.put("pos", player.getPosition());
-            jsonPlayer.put("team", player.getTeam());
-            jsonPlayer.put("teamId", player.getTeamId());
-            jsonPlayer.put("teampicture", "images/teamspics/" + player.getTeamId() + ".png");
-
-            arr.add(jsonPlayer);
-        });
+        ObjectMapper objectMapper = new ObjectMapper();
 
         try {
+
+            String jsonArray = objectMapper.writeValueAsString(playerList);
+
             FileWriter writer = new FileWriter(jsonPath);
 
-            writer.write(arr.toJSONString());
+            writer.write(jsonArray);
             writer.flush();
+
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -133,11 +100,7 @@ public class NBAJsonParser {
 
         Set<Team> teamSet = new HashSet<>();
 
-        playerList.forEach(player -> {
-
-            teamSet.add(new Team(player.getTeamId(), player.getTeam(), "images/teamspics/" + player.getTeamId() + ".png"));
-
-        });
+        playerList.forEach(player -> teamSet.add(player.getTeam()));
 
         return new LinkedList<>(teamSet);
 
@@ -180,7 +143,6 @@ public class NBAJsonParser {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
 
     }
 

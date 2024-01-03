@@ -1,39 +1,37 @@
 package com.nbaapp.models;
 
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "player")
+@JsonSerialize(using = PlayerSerializer.class)
 public class Player {
 
-    private final int id;
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private final Integer id;
     private final String name;
     private final String position;
-    private final String team;
-    private final int teamId;
+    private final Team team;
 
-
-    public Player(int id, String name, String position, String team, int teamId) {
+    public Player(int id, String name, String position, int teamId, String teamName) {
         this.id = id;
         this.name = name;
         this.position = parsePosition(position);
-        this.team = team;
-        this.teamId = teamId;
+        this.team = new Team(teamId, teamName);
     }
 
     private static String parsePosition(String position) {
-        switch (position) {
-            case "G":
-                return "Guard";
-            case "G-F":
-                return "Guard/Forward";
-            case "F-G":
-                return "Forward/Guard";
-            case "F":
-                return "Forward";
-            case "F-C":
-                return "Forward/Center";
-            case "C-F":
-                return "Center/Forward";
-            default:
-                return "Center";
-        }
+        return switch (position) {
+            case "G" -> "Guard";
+            case "G-F" -> "Guard/Forward";
+            case "F-G" -> "Forward/Guard";
+            case "F" -> "Forward";
+            case "F-C" -> "Forward/Center";
+            case "C-F" -> "Center/Forward";
+            default -> "Center";
+        };
     }
 
     public int getId() {
@@ -48,13 +46,10 @@ public class Player {
         return position;
     }
 
-    public String getTeam() {
+    public Team getTeam() {
         return team;
     }
 
-    public int getTeamId() {
-        return teamId;
-    }
 
     @Override
     public String toString() {
