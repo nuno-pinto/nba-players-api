@@ -1,1 +1,3796 @@
-[{"id":1630173,"name":"Precious Achiuwa","pos":"Forward","teamId":1610612752},{"id":203500,"name":"Steven Adams","pos":"Center","teamId":1610612763},{"id":1628389,"name":"Bam Adebayo","pos":"Center/Forward","teamId":1610612748},{"id":1630534,"name":"Ochai Agbaji","pos":"Guard","teamId":1610612762},{"id":1630583,"name":"Santi Aldama","pos":"Forward/Center","teamId":1610612763},{"id":1629638,"name":"Nickeil Alexander-Walker","pos":"Guard","teamId":1610612750},{"id":1628960,"name":"Grayson Allen","pos":"Guard","teamId":1610612756},{"id":1628386,"name":"Jarrett Allen","pos":"Center","teamId":1610612739},{"id":1630631,"name":"Jose Alvarado","pos":"Guard","teamId":1610612740},{"id":203937,"name":"Kyle Anderson","pos":"Forward/Guard","teamId":1610612750},{"id":203507,"name":"Giannis Antetokounmpo","pos":"Forward","teamId":1610612749},{"id":203648,"name":"Thanasis Antetokounmpo","pos":"Forward","teamId":1610612749},{"id":1630175,"name":"Cole Anthony","pos":"Guard","teamId":1610612753},{"id":1628384,"name":"OG Anunoby","pos":"Forward/Guard","teamId":1610612752},{"id":1627853,"name":"Ryan Arcidiacono","pos":"Guard","teamId":1610612752},{"id":1630166,"name":"Deni Avdija","pos":"Forward","teamId":1610612764},{"id":1629028,"name":"Deandre Ayton","pos":"Center","teamId":1610612757},{"id":1628962,"name":"Udoka Azubuike","pos":"Center/Forward","teamId":1610612756},{"id":1630641,"name":"Ibou Badji","pos":"Center","teamId":1610612757},{"id":1628963,"name":"Marvin Bagley III","pos":"Forward","teamId":1610612765},{"id":1641735,"name":"Amari Bailey","pos":"Guard","teamId":1610612766},{"id":1631116,"name":"Patrick Baldwin Jr.","pos":"Forward","teamId":1610612764},{"id":1630163,"name":"LaMelo Ball","pos":"Guard","teamId":1610612766},{"id":1628366,"name":"Lonzo Ball","pos":"Guard","teamId":1610612741},{"id":1628964,"name":"Mo Bamba","pos":"Center","teamId":1610612755},{"id":1631094,"name":"Paolo Banchero","pos":"Forward","teamId":1610612753},{"id":1630217,"name":"Desmond Bane","pos":"Guard","teamId":1610612763},{"id":1630625,"name":"Dalano Banton","pos":"Forward","teamId":1610612738},{"id":1631230,"name":"Dominick Barlow","pos":"Forward","teamId":1610612759},{"id":203084,"name":"Harrison Barnes","pos":"Forward","teamId":1610612758},{"id":1630567,"name":"Scottie Barnes","pos":"Forward/Guard","teamId":1610612761},{"id":1629628,"name":"RJ Barrett","pos":"Forward/Guard","teamId":1610612761},{"id":1629646,"name":"Charles Bassey","pos":"Center/Forward","teamId":1610612759},{"id":1641734,"name":"Emoni Bates","pos":"Forward","teamId":1610612739},{"id":1628966,"name":"Keita Bates-Diop","pos":"Forward","teamId":1610612756},{"id":201587,"name":"Nicolas Batum","pos":"Guard/Forward","teamId":1610612755},{"id":203078,"name":"Bradley Beal","pos":"Guard","teamId":1610612756},{"id":1627736,"name":"Malik Beasley","pos":"Guard","teamId":1610612749},{"id":1630699,"name":"MarJon Beauchamp","pos":"Forward","teamId":1610612749},{"id":1631262,"name":"Jules Bernard","pos":"Guard","teamId":1610612764},{"id":202722,"name":"Davis Bertans","pos":"Forward","teamId":1610612760},{"id":201976,"name":"Patrick Beverley","pos":"Guard","teamId":1610612755},{"id":1630180,"name":"Saddiq Bey","pos":"Guard/Forward","teamId":1610612737},{"id":1629048,"name":"Goga Bitadze","pos":"Center/Forward","teamId":1610612753},{"id":1641931,"name":"Onuralp Bitim","pos":"Forward","teamId":1610612741},{"id":202687,"name":"Bismack Biyombo","pos":"Center","teamId":1610612763},{"id":1641710,"name":"Anthony Black","pos":"Guard","teamId":1610612753},{"id":1641778,"name":"Leaky Black","pos":"Forward","teamId":1610612766},{"id":203992,"name":"Bogdan Bogdanovic","pos":"Guard","teamId":1610612737},{"id":202711,"name":"Bojan Bogdanovic","pos":"Forward","teamId":1610612765},{"id":1629626,"name":"Bol Bol","pos":"Center/Forward","teamId":1610612756},{"id":1629716,"name":"Marques Bolden","pos":"Center","teamId":1610612749},{"id":1626164,"name":"Devin Booker","pos":"Guard","teamId":1610612756},{"id":1630527,"name":"Brandon Boston Jr.","pos":"Guard","teamId":1610612746},{"id":1628449,"name":"Chris Boucher","pos":"Forward","teamId":1610612761},{"id":1630547,"name":"James Bouknight","pos":"Guard","teamId":1610612766},{"id":1631123,"name":"Jamaree Bouyea","pos":"Guard","teamId":1610612757},{"id":1631103,"name":"Malaki Branham","pos":"Forward","teamId":1610612759},{"id":1631128,"name":"Christian Braun","pos":"Guard","teamId":1610612743},{"id":1628969,"name":"Mikal Bridges","pos":"Guard/Forward","teamId":1610612751},{"id":1628970,"name":"Miles Bridges","pos":"Forward","teamId":1610612766},{"id":1629052,"name":"Oshae Brissett","pos":"Forward/Guard","teamId":1610612738},{"id":1627763,"name":"Malcolm Brogdon","pos":"Guard","teamId":1610612757},{"id":1629717,"name":"Armoni Brooks","pos":"Guard","teamId":1610612751},{"id":1628415,"name":"Dillon Brooks","pos":"Guard/Forward","teamId":1610612745},{"id":1628971,"name":"Bruce Brown","pos":"Guard/Forward","teamId":1610612754},{"id":1627759,"name":"Jaylen Brown","pos":"Guard/Forward","teamId":1610612738},{"id":1631112,"name":"Kendall Brown","pos":"Guard","teamId":1610612754},{"id":1641738,"name":"Kobe Brown","pos":"Forward","teamId":1610612746},{"id":1629650,"name":"Moses Brown","pos":"Center","teamId":1610612757},{"id":1630535,"name":"Greg Brown III","pos":"Forward","teamId":1610612742},{"id":1629718,"name":"Charlie Brown Jr.","pos":"Guard","teamId":1610612752},{"id":1628972,"name":"Troy Brown Jr.","pos":"Guard/Forward","teamId":1610612750},{"id":1628973,"name":"Jalen Brunson","pos":"Guard","teamId":1610612752},{"id":1628418,"name":"Thomas Bryant","pos":"Center/Forward","teamId":1610612748},{"id":1641723,"name":"Kobe Bufkin","pos":"Guard","teamId":1610612737},{"id":203493,"name":"Reggie Bullock Jr.","pos":"Guard/Forward","teamId":1610612745},{"id":202692,"name":"Alec Burks","pos":"Guard","teamId":1610612765},{"id":1630215,"name":"Jared Butler","pos":"Guard","teamId":1610612764},{"id":202710,"name":"Jimmy Butler","pos":"Forward","teamId":1610612748},{"id":1631288,"name":"Jamal Cain","pos":"Forward","teamId":1610612748},{"id":203484,"name":"Kentavious Caldwell-Pope","pos":"Guard","teamId":1610612743},{"id":1641739,"name":"Toumani Camara","pos":"Forward","teamId":1610612757},{"id":1628427,"name":"Vlatko Cancar","pos":"Forward","teamId":1610612743},{"id":203991,"name":"Clint Capela","pos":"Center","teamId":1610612737},{"id":1628975,"name":"Jevon Carter","pos":"Guard","teamId":1610612741},{"id":1628976,"name":"Wendell Carter Jr.","pos":"Center/Forward","teamId":1610612753},{"id":1627936,"name":"Alex Caruso","pos":"Guard","teamId":1610612741},{"id":1630658,"name":"Colin Castleton","pos":"Center","teamId":1610612747},{"id":1630608,"name":"Malcolm Cazalon","pos":"Guard","teamId":1610612765},{"id":1630577,"name":"Julian Champagnie","pos":"Forward","teamId":1610612759},{"id":1631108,"name":"Max Christie","pos":"Guard","teamId":1610612747},{"id":1630528,"name":"Josh Christopher","pos":"Guard","teamId":1610612762},{"id":1631321,"name":"Sidy Cissoko","pos":"Guard","teamId":1610612759},{"id":1641740,"name":"Jaylen Clark","pos":"Guard","teamId":1610612750},{"id":1629634,"name":"Brandon Clarke","pos":"Forward","teamId":1610612763},{"id":203903,"name":"Jordan Clarkson","pos":"Guard","teamId":1610612762},{"id":1629651,"name":"Nic Claxton","pos":"Center","teamId":1610612751},{"id":1641730,"name":"Noah Clowney","pos":"Forward","teamId":1610612751},{"id":1629599,"name":"Amir Coffey","pos":"Guard/Forward","teamId":1610612746},{"id":1628381,"name":"John Collins","pos":"Forward/Center","teamId":1610612762},{"id":1628380,"name":"Zach Collins","pos":"Forward/Center","teamId":1610612759},{"id":201144,"name":"Mike Conley","pos":"Guard","teamId":1610612750},{"id":1626192,"name":"Pat Connaughton","pos":"Guard","teamId":1610612749},{"id":1641731,"name":"Bilal Coulibaly","pos":"Guard","teamId":1610612764},{"id":1641741,"name":"Ricky Council IV","pos":"Guard","teamId":1610612755},{"id":203496,"name":"Robert Covington","pos":"Forward","teamId":1610612755},{"id":1628470,"name":"Torrey Craig","pos":"Forward","teamId":1610612741},{"id":203109,"name":"Jae Crowder","pos":"Forward","teamId":1610612749},{"id":1630595,"name":"Cade Cunningham","pos":"Guard","teamId":1610612765},{"id":203552,"name":"Seth Curry","pos":"Guard","teamId":1610612742},{"id":201939,"name":"Stephen Curry","pos":"Guard","teamId":1610612744},{"id":1630700,"name":"Dyson Daniels","pos":"Guard","teamId":1610612740},{"id":203076,"name":"Anthony Davis","pos":"Forward/Center","teamId":1610612747},{"id":1631098,"name":"Johnny Davis","pos":"Guard","teamId":1610612764},{"id":1631120,"name":"JD Davison","pos":"Guard","teamId":1610612738},{"id":201942,"name":"DeMar DeRozan","pos":"Guard/Forward","teamId":1610612741},{"id":1641926,"name":"Dexter Dennis","pos":"Guard","teamId":1610612742},{"id":1628978,"name":"Donte DiVincenzo","pos":"Guard","teamId":1610612752},{"id":1631217,"name":"Moussa Diabate","pos":"Forward","teamId":1610612746},{"id":1629603,"name":"Mamadi Diakite","pos":"Forward","teamId":1610612759},{"id":1641711,"name":"Gradey Dick","pos":"Guard/Forward","teamId":1610612761},{"id":1631172,"name":"Ousmane Dieng","pos":"Forward","teamId":1610612760},{"id":203915,"name":"Spencer Dinwiddie","pos":"Guard","teamId":1610612751},{"id":1629029,"name":"Luka Doncic","pos":"Forward/Guard","teamId":1610612742},{"id":1629652,"name":"Luguentz Dort","pos":"Guard","teamId":1610612760},{"id":1630245,"name":"Ayo Dosunmu","pos":"Guard","teamId":1610612741},{"id":1630929,"name":"Henri Drell","pos":"Forward","teamId":1610612741},{"id":203083,"name":"Andre Drummond","pos":"Center","teamId":1610612741},{"id":1630537,"name":"Chris Duarte","pos":"Guard","teamId":1610612758},{"id":1630561,"name":"David Duke Jr.","pos":"Guard","teamId":1610612759},{"id":1627739,"name":"Kris Dunn","pos":"Guard","teamId":1610612762},{"id":201142,"name":"Kevin Durant","pos":"Forward","teamId":1610612756},{"id":1631105,"name":"Jalen Duren","pos":"Center","teamId":1610612765},{"id":1631106,"name":"Tari Eason","pos":"Forward","teamId":1610612745},{"id":1630162,"name":"Anthony Edwards","pos":"Guard","teamId":1610612750},{"id":1630556,"name":"Kessler Edwards","pos":"Forward","teamId":1610612758},{"id":1631165,"name":"Keon Ellis","pos":"Guard","teamId":1610612758},{"id":203954,"name":"Joel Embiid","pos":"Center/Forward","teamId":1610612755},{"id":1629234,"name":"Drew Eubanks","pos":"Forward/Center","teamId":1610612756},{"id":203957,"name":"Dante Exum","pos":"Guard","teamId":1610612742},{"id":1628981,"name":"Bruno Fernando","pos":"Forward/Center","teamId":1610612737},{"id":1627827,"name":"Dorian Finney-Smith","pos":"Forward","teamId":1610612751},{"id":1630201,"name":"Malachi Flynn","pos":"Guard","teamId":1610612752},{"id":1631323,"name":"Simone Fontecchio","pos":"Forward","teamId":1610612762},{"id":1630259,"name":"Jordan Ford","pos":"Guard","teamId":1610612758},{"id":1630235,"name":"Trent Forrest","pos":"Guard","teamId":1610612737},{"id":203095,"name":"Evan Fournier","pos":"Guard/Forward","teamId":1610612752},{"id":1628368,"name":"De'Aaron Fox","pos":"Guard","teamId":1610612758},{"id":1631241,"name":"Javon Freeman-Liberty","pos":"Guard","teamId":1610612761},{"id":1641788,"name":"Alex Fudge","pos":"Forward","teamId":1610612747},{"id":1628365,"name":"Markelle Fultz","pos":"Guard","teamId":1610612753},{"id":1629655,"name":"Daniel Gafford","pos":"Forward/Center","teamId":1610612764},{"id":201568,"name":"Danilo Gallinari","pos":"Forward","teamId":1610612764},{"id":1629636,"name":"Darius Garland","pos":"Guard","teamId":1610612739},{"id":1630586,"name":"Usman Garuba","pos":"Forward","teamId":1610612744},{"id":1630568,"name":"Luka Garza","pos":"Center","teamId":1610612750},{"id":1629232,"name":"Kaiser Gates","pos":"Forward","teamId":1610612740},{"id":1641718,"name":"Keyonte George","pos":"Guard","teamId":1610612762},{"id":202331,"name":"Paul George","pos":"Forward","teamId":1610612746},{"id":201959,"name":"Taj Gibson","pos":"Forward","teamId":1610612752},{"id":1630581,"name":"Josh Giddey","pos":"Guard","teamId":1610612760},{"id":1628385,"name":"Harry Giles III","pos":"Forward/Center","teamId":1610612751},{"id":1628983,"name":"Shai Gilgeous-Alexander","pos":"Guard","teamId":1610612760},{"id":1630264,"name":"Anthony Gill","pos":"Forward","teamId":1610612764},{"id":1631221,"name":"Collin Gillespie","pos":"Guard","teamId":1610612743},{"id":1631367,"name":"Jacob Gilyard","pos":"Guard","teamId":1610612763},{"id":203497,"name":"Rudy Gobert","pos":"Center","teamId":1610612750},{"id":1630692,"name":"Jordan Goodwin","pos":"Guard","teamId":1610612756},{"id":203932,"name":"Aaron Gordon","pos":"Forward","teamId":1610612743},{"id":201569,"name":"Eric Gordon","pos":"Guard","teamId":1610612756},{"id":1628984,"name":"Devonte' Graham","pos":"Guard","teamId":1610612759},{"id":203924,"name":"Jerami Grant","pos":"Forward","teamId":1610612757},{"id":1631260,"name":"AJ Green","pos":"Guard","teamId":1610612749},{"id":201980,"name":"Danny Green","pos":"Guard","teamId":1610612755},{"id":203110,"name":"Draymond Green","pos":"Forward","teamId":1610612744},{"id":1630224,"name":"Jalen Green","pos":"Guard","teamId":1610612745},{"id":201145,"name":"Jeff Green","pos":"Forward","teamId":1610612745},{"id":1630182,"name":"Josh Green","pos":"Guard","teamId":1610612742},{"id":1631100,"name":"AJ Griffin","pos":"Forward","teamId":1610612737},{"id":1629656,"name":"Quentin Grimes","pos":"Guard","teamId":1610612752},{"id":1631243,"name":"Mouhamed Gueye","pos":"Forward","teamId":1610612737},{"id":1629060,"name":"Rui Hachimura","pos":"Forward","teamId":1610612747},{"id":1630169,"name":"Tyrese Haliburton","pos":"Guard","teamId":1610612754},{"id":1630181,"name":"R.J. Hampton","pos":"Guard","teamId":1610612748},{"id":203501,"name":"Tim Hardaway Jr.","pos":"Guard/Forward","teamId":1610612742},{"id":201935,"name":"James Harden","pos":"Guard","teamId":1610612746},{"id":1630702,"name":"Jaden Hardy","pos":"Guard","teamId":1610612742},{"id":1631199,"name":"Ron Harper Jr.","pos":"Forward","teamId":1610612761},{"id":203914,"name":"Gary Harris","pos":"Guard","teamId":1610612753},{"id":203925,"name":"Joe Harris","pos":"Guard/Forward","teamId":1610612765},{"id":1630284,"name":"Kevon Harris","pos":"Guard","teamId":1610612753},{"id":202699,"name":"Tobias Harris","pos":"Forward","teamId":1610612755},{"id":1627885,"name":"Shaquille Harrison","pos":"Guard","teamId":1610612763},{"id":1628404,"name":"Josh Hart","pos":"Guard","teamId":1610612752},{"id":1628392,"name":"Isaiah Hartenstein","pos":"Center/Forward","teamId":1610612752},{"id":1630573,"name":"Sam Hauser","pos":"Forward","teamId":1610612738},{"id":1641722,"name":"Jordan Hawkins","pos":"Guard","teamId":1610612740},{"id":1629637,"name":"Jaxson Hayes","pos":"Center/Forward","teamId":1610612747},{"id":1630165,"name":"Killian Hayes","pos":"Guard","teamId":1610612765},{"id":202330,"name":"Gordon Hayward","pos":"Forward","teamId":1610612766},{"id":1630703,"name":"Scoot Henderson","pos":"Guard","teamId":1610612757},{"id":1641707,"name":"Taylor Hendricks","pos":"Forward","teamId":1610612762},{"id":1629639,"name":"Tyler Herro","pos":"Guard","teamId":1610612748},{"id":1627741,"name":"Buddy Hield","pos":"Guard","teamId":1610612754},{"id":1629312,"name":"Haywood Highsmith","pos":"Forward","teamId":1610612748},{"id":1630207,"name":"Nate Hinton","pos":"Guard/Forward","teamId":1610612745},{"id":1641793,"name":"D'Moi Hodge","pos":"Guard","teamId":1610612747},{"id":1628988,"name":"Aaron Holiday","pos":"Guard","teamId":1610612745},{"id":201950,"name":"Jrue Holiday","pos":"Guard","teamId":1610612738},{"id":203200,"name":"Justin Holiday","pos":"Forward/Guard","teamId":1610612743},{"id":1626158,"name":"Richaun Holmes","pos":"Forward","teamId":1610612742},{"id":1631096,"name":"Chet Holmgren","pos":"Center/Forward","teamId":1610612760},{"id":1641720,"name":"Jalen Hood-Schifino","pos":"Guard","teamId":1610612747},{"id":201143,"name":"Al Horford","pos":"Center/Forward","teamId":1610612738},{"id":1629659,"name":"Talen Horton-Tucker","pos":"Guard","teamId":1610612762},{"id":1627863,"name":"Danuel House Jr.","pos":"Forward/Guard","teamId":1610612755},{"id":1631216,"name":"Caleb Houstan","pos":"Guard","teamId":1610612753},{"id":1641724,"name":"Jett Howard","pos":"Guard","teamId":1610612753},{"id":1628989,"name":"Kevin Huerter","pos":"Guard/Forward","teamId":1610612758},{"id":1630643,"name":"Jay Huff","pos":"Center","teamId":1610612743},{"id":1629631,"name":"De'Andre Hunter","pos":"Forward/Guard","teamId":1610612737},{"id":1630538,"name":"Bones Hyland","pos":"Guard","teamId":1610612746},{"id":204060,"name":"Joe Ingles","pos":"Forward/Guard","teamId":1610612753},{"id":1627742,"name":"Brandon Ingram","pos":"Forward","teamId":1610612740},{"id":202681,"name":"Kyrie Irving","pos":"Guard","teamId":1610612742},{"id":1628371,"name":"Jonathan Isaac","pos":"Forward","teamId":1610612753},{"id":1631093,"name":"Jaden Ivey","pos":"Guard","teamId":1610612765},{"id":1641713,"name":"GG Jackson","pos":"Forward","teamId":1610612763},{"id":1630543,"name":"Isaiah Jackson","pos":"Forward","teamId":1610612754},{"id":202704,"name":"Reggie Jackson","pos":"Guard","teamId":1610612743},{"id":1641748,"name":"Andre Jackson Jr.","pos":"Guard","teamId":1610612749},{"id":1628991,"name":"Jaren Jackson Jr.","pos":"Forward/Center","teamId":1610612763},{"id":1631218,"name":"Trayce Jackson-Davis","pos":"Forward","teamId":1610612744},{"id":2544,"name":"LeBron James","pos":"Forward","teamId":1610612747},{"id":1631170,"name":"Jaime Jaquez Jr.","pos":"Guard","teamId":1610612748},{"id":1629610,"name":"DaQuan Jeffries","pos":"Guard/Forward","teamId":1610612752},{"id":1629660,"name":"Ty Jerome","pos":"Guard/Forward","teamId":1610612739},{"id":1630198,"name":"Isaiah Joe","pos":"Guard","teamId":1610612760},{"id":1629661,"name":"Cameron Johnson","pos":"Forward","teamId":1610612751},{"id":1630552,"name":"Jalen Johnson","pos":"Forward","teamId":1610612737},{"id":201949,"name":"James Johnson","pos":"Forward","teamId":1610612754},{"id":1629640,"name":"Keldon Johnson","pos":"Forward/Guard","teamId":1610612759},{"id":1630553,"name":"Keon Johnson","pos":"Guard","teamId":1610612751},{"id":1641749,"name":"Keyontae Johnson","pos":"Forward","teamId":1610612760},{"id":203999,"name":"Nikola Jokic","pos":"Center","teamId":1610612743},{"id":1641732,"name":"Colby Jones","pos":"Guard","teamId":1610612758},{"id":1627745,"name":"Damian Jones","pos":"Center","teamId":1610612739},{"id":1630529,"name":"Herbert Jones","pos":"Forward","teamId":1610612740},{"id":1630200,"name":"Tre Jones","pos":"Guard","teamId":1610612759},{"id":1626145,"name":"Tyus Jones","pos":"Guard","teamId":1610612764},{"id":1627884,"name":"Derrick Jones Jr.","pos":"Forward","teamId":1610612742},{"id":201599,"name":"DeAndre Jordan","pos":"Center","teamId":1610612743},{"id":202709,"name":"Cory Joseph","pos":"Guard","teamId":1610612744},{"id":1631107,"name":"Nikola Jovic","pos":"Forward","teamId":1610612748},{"id":1630548,"name":"Johnny Juzang","pos":"Guard","teamId":1610612762},{"id":1628379,"name":"Luke Kennard","pos":"Guard","teamId":1610612763},{"id":1631117,"name":"Walker Kessler","pos":"Center","teamId":1610612762},{"id":1630296,"name":"Braxton Key","pos":"Forward","teamId":1610612743},{"id":1630557,"name":"Corey Kispert","pos":"Forward","teamId":1610612764},{"id":1628467,"name":"Maxi Kleber","pos":"Forward","teamId":1610612742},{"id":1628995,"name":"Kevin Knox II","pos":"Forward","teamId":1610612765},{"id":1631132,"name":"Christian Koloko","pos":"Center","teamId":1610612761},{"id":1629723,"name":"John Konchar","pos":"Guard","teamId":1610612763},{"id":1627788,"name":"Furkan Korkmaz","pos":"Guard/Forward","teamId":1610612755},{"id":1628436,"name":"Luke Kornet","pos":"Center/Forward","teamId":1610612738},{"id":1630249,"name":"Vit Krejci","pos":"Guard","teamId":1610612737},{"id":1630228,"name":"Jonathan Kuminga","pos":"Forward","teamId":1610612744},{"id":1628398,"name":"Kyle Kuzma","pos":"Forward","teamId":1610612764},{"id":1631222,"name":"Jake LaRavia","pos":"Forward","teamId":1610612763},{"id":203897,"name":"Zach LaVine","pos":"Guard","teamId":1610612741},{"id":1629111,"name":"Jock Landale","pos":"Center","teamId":1610612745},{"id":1630639,"name":"A.J. Lawson","pos":"Guard","teamId":1610612742},{"id":1627747,"name":"Caris LeVert","pos":"Guard","teamId":1610612739},{"id":1627814,"name":"Damion Lee","pos":"Guard/Forward","teamId":1610612756},{"id":1630240,"name":"Saben Lee","pos":"Guard","teamId":1610612756},{"id":203458,"name":"Alex Len","pos":"Center","teamId":1610612758},{"id":202695,"name":"Kawhi Leonard","pos":"Forward","teamId":1610612746},{"id":1641721,"name":"Maxwell Lewis","pos":"Forward","teamId":1610612747},{"id":1630184,"name":"Kira Lewis Jr.","pos":"Guard","teamId":1610612740},{"id":1630604,"name":"E.J. Liddell","pos":"Forward","teamId":1610612740},{"id":203081,"name":"Damian Lillard","pos":"Guard","teamId":1610612749},{"id":1629642,"name":"Nassir Little","pos":"Forward/Guard","teamId":1610612756},{"id":1641726,"name":"Dereck Lively II","pos":"Center","teamId":1610612742},{"id":1630587,"name":"Isaiah Livers","pos":"Forward","teamId":1610612765},{"id":1641753,"name":"Chris Livingston","pos":"Forward","teamId":1610612749},{"id":1631254,"name":"Kenneth Lofton Jr.","pos":"Forward","teamId":1610612755},{"id":1626172,"name":"Kevon Looney","pos":"Forward","teamId":1610612744},{"id":201572,"name":"Brook Lopez","pos":"Center","teamId":1610612749},{"id":201577,"name":"Robin Lopez","pos":"Center","teamId":1610612749},{"id":201567,"name":"Kevin Love","pos":"Forward/Center","teamId":1610612748},{"id":200768,"name":"Kyle Lowry","pos":"Guard","teamId":1610612748},{"id":1641754,"name":"Seth Lundy","pos":"Guard/Forward","teamId":1610612737},{"id":1626168,"name":"Trey Lyles","pos":"Forward","teamId":1610612758},{"id":1630177,"name":"Theo Maledon","pos":"Guard","teamId":1610612756},{"id":1630572,"name":"Sandro Mamukelashvili","pos":"Forward/Center","teamId":1610612759},{"id":1629611,"name":"Terance Mann","pos":"Guard/Forward","teamId":1610612746},{"id":1630544,"name":"Tre Mann","pos":"Guard","teamId":1610612760},{"id":1626246,"name":"Boban Marjanovic","pos":"Center","teamId":1610612745},{"id":1628374,"name":"Lauri Markkanen","pos":"Forward/Center","teamId":1610612762},{"id":1630230,"name":"Naji Marshall","pos":"Forward","teamId":1610612740},{"id":1628997,"name":"Caleb Martin","pos":"Forward","teamId":1610612748},{"id":1628998,"name":"Cody Martin","pos":"Forward","teamId":1610612766},{"id":1630231,"name":"KJ Martin","pos":"Forward","teamId":1610612755},{"id":1629726,"name":"Garrison Mathews","pos":"Guard","teamId":1610612737},{"id":1631097,"name":"Bennedict Mathurin","pos":"Guard/Forward","teamId":1610612754},{"id":202083,"name":"Wesley Matthews","pos":"Guard","teamId":1610612737},{"id":1630178,"name":"Tyrese Maxey","pos":"Guard","teamId":1610612755},{"id":1630219,"name":"Skylar Mays","pos":"Guard","teamId":1610612757},{"id":1630540,"name":"Miles McBride","pos":"Guard","teamId":1610612752},{"id":203468,"name":"CJ McCollum","pos":"Guard","teamId":1610612740},{"id":204456,"name":"T.J. McConnell","pos":"Guard","teamId":1610612754},{"id":1630183,"name":"Jaden McDaniels","pos":"Forward","teamId":1610612750},{"id":1629667,"name":"Jalen McDaniels","pos":"Forward","teamId":1610612761},{"id":203926,"name":"Doug McDermott","pos":"Forward","teamId":1610612759},{"id":201580,"name":"JaVale McGee","pos":"Center/Forward","teamId":1610612758},{"id":1631121,"name":"Bryce McGowens","pos":"Guard","teamId":1610612766},{"id":1629162,"name":"Jordan McLaughlin","pos":"Guard","teamId":1610612750},{"id":1629001,"name":"De'Anthony Melton","pos":"Guard","teamId":1610612755},{"id":1641877,"name":"Nathan Mensah","pos":"Center","teamId":1610612766},{"id":1630241,"name":"Sam Merrill","pos":"Guard","teamId":1610612739},{"id":1629002,"name":"Chimezie Metu","pos":"Forward/Center","teamId":1610612756},{"id":203995,"name":"Vasilije Micic","pos":"Guard","teamId":1610612760},{"id":203114,"name":"Khris Middleton","pos":"Forward","teamId":1610612749},{"id":1641706,"name":"Brandon Miller","pos":"Forward","teamId":1610612766},{"id":1641757,"name":"Jordan Miller","pos":"Guard","teamId":1610612746},{"id":1631159,"name":"Leonard Miller","pos":"Forward","teamId":1610612750},{"id":201988,"name":"Patty Mills","pos":"Guard","teamId":1610612737},{"id":1629003,"name":"Shake Milton","pos":"Guard/Forward","teamId":1610612750},{"id":1631303,"name":"Justin Minaya","pos":"Forward","teamId":1610612757},{"id":1631169,"name":"Josh Minott","pos":"Forward","teamId":1610612750},{"id":1630558,"name":"Davion Mitchell","pos":"Guard","teamId":1610612758},{"id":1628378,"name":"Donovan Mitchell","pos":"Guard","teamId":1610612739},{"id":1630596,"name":"Evan Mobley","pos":"Center","teamId":1610612739},{"id":1630600,"name":"Isaiah Mobley","pos":"Forward","teamId":1610612739},{"id":1628370,"name":"Malik Monk","pos":"Guard","teamId":1610612758},{"id":1630541,"name":"Moses Moody","pos":"Guard","teamId":1610612744},{"id":1629875,"name":"Xavier Moon","pos":"Guard","teamId":1610612746},{"id":1631111,"name":"Wendell Moore Jr.","pos":"Guard","teamId":1610612750},{"id":1629630,"name":"Ja Morant","pos":"Guard","teamId":1610612763},{"id":202693,"name":"Markieff Morris","pos":"Forward","teamId":1610612742},{"id":1628420,"name":"Monte Morris","pos":"Guard","teamId":1610612765},{"id":202694,"name":"Marcus Morris Sr.","pos":"Forward","teamId":1610612755},{"id":1630530,"name":"Trey Murphy III","pos":"Forward","teamId":1610612740},{"id":1627749,"name":"Dejounte Murray","pos":"Guard","teamId":1610612737},{"id":1627750,"name":"Jamal Murray","pos":"Guard","teamId":1610612743},{"id":1631099,"name":"Keegan Murray","pos":"Forward","teamId":1610612758},{"id":1631200,"name":"Kris Murray","pos":"Forward","teamId":1610612757},{"id":203488,"name":"Mike Muscala","pos":"Forward/Center","teamId":1610612764},{"id":1629004,"name":"Svi Mykhailiuk","pos":"Guard/Forward","teamId":1610612738},{"id":1626204,"name":"Larry Nance Jr.","pos":"Forward/Center","teamId":1610612740},{"id":1629614,"name":"Andrew Nembhard","pos":"Guard/Forward","teamId":1610612754},{"id":1630174,"name":"Aaron Nesmith","pos":"Guard/Forward","teamId":1610612754},{"id":1627777,"name":"Georges Niang","pos":"Forward","teamId":1610612739},{"id":1630227,"name":"Daishen Nix","pos":"Guard","teamId":1610612750},{"id":1630192,"name":"Zeke Nnaji","pos":"Forward/Center","teamId":1610612743},{"id":1629669,"name":"Jaylen Nowell","pos":"Guard","teamId":1610612763},{"id":1641806,"name":"Markquis Nowell","pos":"Guard","teamId":1610612761},{"id":1628373,"name":"Frank Ntilikina","pos":"Guard","teamId":1610612766},{"id":203994,"name":"Jusuf Nurkic","pos":"Center","teamId":1610612756},{"id":1629670,"name":"Jordan Nwora","pos":"Forward","teamId":1610612754},{"id":1626220,"name":"Royce O'Neale","pos":"Forward","teamId":1610612751},{"id":1629643,"name":"Chuma Okeke","pos":"Forward","teamId":1610612753},{"id":1629006,"name":"Josh Okogie","pos":"Guard","teamId":1610612756},{"id":1630168,"name":"Onyeka Okongwu","pos":"Forward/Center","teamId":1610612737},{"id":1630171,"name":"Isaac Okoro","pos":"Forward/Guard","teamId":1610612739},{"id":203506,"name":"Victor Oladipo","pos":"Guard","teamId":1610612745},{"id":203482,"name":"Kelly Olynyk","pos":"Forward/Center","teamId":1610612762},{"id":1630647,"name":"Eugene Omoruyi","pos":"Forward","teamId":1610612764},{"id":1626224,"name":"Cedi Osman","pos":"Forward","teamId":1610612759},{"id":1626162,"name":"Kelly Oubre Jr.","pos":"Forward/Guard","teamId":1610612755},{"id":101108,"name":"Chris Paul","pos":"Guard","teamId":1610612744},{"id":1626166,"name":"Cameron Payne","pos":"Guard","teamId":1610612749},{"id":1627780,"name":"Gary Payton II","pos":"Guard","teamId":1610612744},{"id":1641809,"name":"Drew Peterson","pos":"Forward","teamId":1610612738},{"id":1630196,"name":"Filip Petrusev","pos":"Center","teamId":1610612758},{"id":1641763,"name":"Julian Phillips","pos":"Forward","teamId":1610612741},{"id":1629618,"name":"Jalen Pickett","pos":"Guard","teamId":1610612743},{"id":203486,"name":"Mason Plumlee","pos":"Forward/Center","teamId":1610612746},{"id":1641764,"name":"Brandin Podziemski","pos":"Guard","teamId":1610612744},{"id":1627751,"name":"Jakob Poeltl","pos":"Center","teamId":1610612761},{"id":1630197,"name":"Aleksej Pokusevski","pos":"Forward","teamId":1610612760},{"id":1629673,"name":"Jordan Poole","pos":"Guard","teamId":1610612764},{"id":1629007,"name":"Jontay Porter","pos":"Center/Forward","teamId":1610612761},{"id":1641854,"name":"Craig Porter Jr.","pos":"Guard","teamId":1610612739},{"id":1629008,"name":"Michael Porter Jr.","pos":"Forward","teamId":1610612743},{"id":203490,"name":"Otto Porter Jr.","pos":"Forward","teamId":1610612761},{"id":1626171,"name":"Bobby Portis","pos":"Forward","teamId":1610612749},{"id":204001,"name":"Kristaps Porzingis","pos":"Forward/Center","teamId":1610612738},{"id":1630695,"name":"Micah Potter","pos":"Center","teamId":1610612762},{"id":203939,"name":"Dwight Powell","pos":"Forward/Center","teamId":1610612742},{"id":1626181,"name":"Norman Powell","pos":"Guard","teamId":1610612746},{"id":1630563,"name":"Joshua Primo","pos":"Guard","teamId":1610612746},{"id":1627752,"name":"Taurean Prince","pos":"Forward","teamId":1610612747},{"id":1630202,"name":"Payton Pritchard","pos":"Guard","teamId":1610612738},{"id":1641765,"name":"Olivier-Maxence Prosper","pos":"Forward","teamId":1610612742},{"id":1630243,"name":"Trevelin Queen","pos":"Guard","teamId":1610612753},{"id":1629674,"name":"Neemias Queta","pos":"Center","teamId":1610612738},{"id":1630193,"name":"Immanuel Quickley","pos":"Guard","teamId":1610612761},{"id":1631311,"name":"Lester Quinones","pos":"Guard","teamId":1610612744},{"id":203944,"name":"Julius Randle","pos":"Forward/Center","teamId":1610612752},{"id":1641871,"name":"Duop Reath","pos":"Center","teamId":1610612757},{"id":1630559,"name":"Austin Reaves","pos":"Guard","teamId":1610612747},{"id":1629629,"name":"Cam Reddish","pos":"Forward/Guard","teamId":1610612747},{"id":1630194,"name":"Paul Reed","pos":"Forward","teamId":1610612755},{"id":1629675,"name":"Naz Reid","pos":"Center/Forward","teamId":1610612750},{"id":1631197,"name":"Jared Rhoden","pos":"Guard","teamId":1610612765},{"id":1630208,"name":"Nick Richards","pos":"Center","teamId":1610612766},{"id":1626196,"name":"Josh Richardson","pos":"Guard","teamId":1610612748},{"id":1629130,"name":"Duncan Robinson","pos":"Forward","teamId":1610612748},{"id":1629010,"name":"Jerome Robinson","pos":"Guard","teamId":1610612744},{"id":1629011,"name":"Mitchell Robinson","pos":"Center/Forward","teamId":1610612752},{"id":1631115,"name":"Orlando Robinson","pos":"Center","teamId":1610612748},{"id":1630526,"name":"Jeremiah Robinson-Earl","pos":"Forward","teamId":1610612740},{"id":1631223,"name":"David Roddy","pos":"Forward","teamId":1610612763},{"id":1631157,"name":"Ryan Rollins","pos":"Guard","teamId":1610612764},{"id":201565,"name":"Derrick Rose","pos":"Guard","teamId":1610612763},{"id":1626179,"name":"Terry Rozier","pos":"Guard","teamId":1610612766},{"id":201937,"name":"Ricky Rubio","pos":"Guard","teamId":1610612739},{"id":1641712,"name":"Rayan Rupert","pos":"Guard/Forward","teamId":1610612757},{"id":1626156,"name":"D'Angelo Russell","pos":"Guard","teamId":1610612747},{"id":1630346,"name":"Matt Ryan","pos":"Forward","teamId":1610612740},{"id":1627734,"name":"Domantas Sabonis","pos":"Forward/Center","teamId":1610612758},{"id":1629677,"name":"Luka Samanic","pos":"Forward","teamId":1610612762},{"id":1631257,"name":"Jermaine Samuels Jr.","pos":"Forward","teamId":1610612745},{"id":1641766,"name":"Adama Sanogo","pos":"Forward","teamId":1610612741},{"id":1630611,"name":"Gui Santos","pos":"Forward","teamId":1610612744},{"id":203967,"name":"Dario Saric","pos":"Forward/Center","teamId":1610612744},{"id":1630846,"name":"Olivier Sarr","pos":"Center","teamId":1610612760},{"id":1631204,"name":"Marcus Sasser","pos":"Guard","teamId":1610612765},{"id":1629678,"name":"Admiral Schofield","pos":"Forward","teamId":1610612753},{"id":203471,"name":"Dennis Schroder","pos":"Guard","teamId":1610612761},{"id":1631220,"name":"Dereon Seabron","pos":"Guard","teamId":1610612740},{"id":1630578,"name":"Alperen Sengun","pos":"Center","teamId":1610612745},{"id":1641729,"name":"Brice Sensabaugh","pos":"Forward","teamId":1610612762},{"id":1629012,"name":"Collin Sexton","pos":"Guard","teamId":1610612762},{"id":1629013,"name":"Landry Shamet","pos":"Guard","teamId":1610612764},{"id":1630549,"name":"Day'Ron Sharpe","pos":"Center","teamId":1610612751},{"id":1631101,"name":"Shaedon Sharpe","pos":"Guard","teamId":1610612757},{"id":1641767,"name":"Ben Sheppard","pos":"Guard","teamId":1610612754},{"id":1627783,"name":"Pascal Siakam","pos":"Forward","teamId":1610612761},{"id":1627732,"name":"Ben Simmons","pos":"Guard/Forward","teamId":1610612751},{"id":1629014,"name":"Anfernee Simons","pos":"Guard","teamId":1610612757},{"id":1630579,"name":"Jericho Sims","pos":"Center","teamId":1610612752},{"id":1631376,"name":"Dmytro Skapintsev","pos":"Center","teamId":1610612752},{"id":1641771,"name":"Jalen Slawson","pos":"Forward","teamId":1610612758},{"id":1630606,"name":"Javonte Smart","pos":"Guard","teamId":1610612755},{"id":203935,"name":"Marcus Smart","pos":"Guard","teamId":1610612763},{"id":1630696,"name":"Dru Smith","pos":"Guard","teamId":1610612748},{"id":202397,"name":"Ish Smith","pos":"Guard","teamId":1610612766},{"id":1630188,"name":"Jalen Smith","pos":"Forward/Center","teamId":1610612754},{"id":1631173,"name":"Terquavion Smith","pos":"Guard","teamId":1610612755},{"id":1628372,"name":"Dennis Smith Jr.","pos":"Guard","teamId":1610612751},{"id":1631095,"name":"Jabari Smith Jr.","pos":"Forward","teamId":1610612745},{"id":1641733,"name":"Nick Smith Jr.","pos":"Guard","teamId":1610612766},{"id":1631110,"name":"Jeremy Sochan","pos":"Forward","teamId":1610612759},{"id":1630531,"name":"Jaden Springer","pos":"Guard","teamId":1610612755},{"id":1630205,"name":"Lamar Stevens","pos":"Forward","teamId":1610612738},{"id":1630191,"name":"Isaiah Stewart","pos":"Forward/Center","teamId":1610612765},{"id":1631124,"name":"Julian Strawther","pos":"Guard","teamId":1610612743},{"id":1629622,"name":"Max Strus","pos":"Guard/Forward","teamId":1610612739},{"id":1630591,"name":"Jalen Suggs","pos":"Guard","teamId":1610612753},{"id":1631306,"name":"Cole Swider","pos":"Forward","teamId":1610612748},{"id":1630256,"name":"Jae'Sean Tate","pos":"Forward","teamId":1610612745},{"id":1628369,"name":"Jayson Tatum","pos":"Forward/Guard","teamId":1610612738},{"id":1630678,"name":"Terry Taylor","pos":"Forward","teamId":1610612741},{"id":202066,"name":"Garrett Temple","pos":"Guard/Forward","teamId":1610612761},{"id":1631207,"name":"Dalen Terry","pos":"Forward","teamId":1610612741},{"id":1628464,"name":"Daniel Theis","pos":"Forward/Center","teamId":1610612746},{"id":1630560,"name":"Cam Thomas","pos":"Guard","teamId":1610612751},{"id":1641708,"name":"Amen Thompson","pos":"Guard/Forward","teamId":1610612745},{"id":1641709,"name":"Ausar Thompson","pos":"Guard/Forward","teamId":1610612765},{"id":202691,"name":"Klay Thompson","pos":"Guard","teamId":1610612744},{"id":202684,"name":"Tristan Thompson","pos":"Center/Forward","teamId":1610612739},{"id":1630550,"name":"JT Thor","pos":"Forward","teamId":1610612766},{"id":1629680,"name":"Matisse Thybulle","pos":"Guard/Forward","teamId":1610612757},{"id":1630214,"name":"Xavier Tillman","pos":"Forward","teamId":1610612763},{"id":1631210,"name":"Jacob Toppin","pos":"Forward","teamId":1610612752},{"id":1630167,"name":"Obi Toppin","pos":"Forward","teamId":1610612754},{"id":1629308,"name":"Juan Toscano-Anderson","pos":"Forward","teamId":1610612758},{"id":1626157,"name":"Karl-Anthony Towns","pos":"Center/Forward","teamId":1610612750},{"id":1629018,"name":"Gary Trent Jr.","pos":"Guard","teamId":1610612761},{"id":1631131,"name":"Oscar Tshiebwe","pos":"Forward/Center","teamId":1610612754},{"id":200782,"name":"P.J. Tucker","pos":"Forward","teamId":1610612746},{"id":1626167,"name":"Myles Turner","pos":"Center/Forward","teamId":1610612754},{"id":1641816,"name":"Hunter Tyson","pos":"Forward","teamId":1610612743},{"id":1630649,"name":"Stanley Umude","pos":"Guard","teamId":1610612765},{"id":202685,"name":"Jonas Valanciunas","pos":"Center","teamId":1610612740},{"id":1627832,"name":"Fred VanVleet","pos":"Guard","teamId":1610612745},{"id":1629020,"name":"Jarred Vanderbilt","pos":"Forward","teamId":1610612747},{"id":1630170,"name":"Devin Vassell","pos":"Guard/Forward","teamId":1610612759},{"id":1628426,"name":"Sasha Vezenkov","pos":"Forward","teamId":1610612758},{"id":1629216,"name":"Gabe Vincent","pos":"Guard","teamId":1610612747},{"id":202696,"name":"Nikola Vucevic","pos":"Center","teamId":1610612741},{"id":1629731,"name":"Dean Wade","pos":"Forward/Center","teamId":1610612739},{"id":1630532,"name":"Franz Wagner","pos":"Forward","teamId":1610612753},{"id":1629021,"name":"Moritz Wagner","pos":"Forward/Center","teamId":1610612753},{"id":1630688,"name":"Ish Wainright","pos":"Forward","teamId":1610612757},{"id":1631133,"name":"Jabari Walker","pos":"Forward","teamId":1610612757},{"id":1641716,"name":"Jarace Walker","pos":"Forward","teamId":1610612754},{"id":1629022,"name":"Lonnie Walker IV","pos":"Guard/Forward","teamId":1610612751},{"id":1641717,"name":"Cason Wallace","pos":"Guard","teamId":1610612760},{"id":1641775,"name":"Jordan Walsh","pos":"Guard","teamId":1610612738},{"id":1629023,"name":"P.J. Washington","pos":"Forward","teamId":1610612766},{"id":1631102,"name":"TyTy Washington Jr.","pos":"Guard","teamId":1610612749},{"id":1629139,"name":"Yuta Watanabe","pos":"Guard/Forward","teamId":1610612756},{"id":1630322,"name":"Lindy Waters III","pos":"Forward","teamId":1610612760},{"id":1630570,"name":"Trendon Watford","pos":"Forward","teamId":1610612751},{"id":1631212,"name":"Peyton Watson","pos":"Guard","teamId":1610612743},{"id":1641705,"name":"Victor Wembanyama","pos":"Forward/Center","teamId":1610612759},{"id":1631104,"name":"Blake Wesley","pos":"Guard","teamId":1610612759},{"id":201566,"name":"Russell Westbrook","pos":"Guard","teamId":1610612746},{"id":1629632,"name":"Coby White","pos":"Guard","teamId":1610612741},{"id":1628401,"name":"Derrick White","pos":"Guard","teamId":1610612738},{"id":1641727,"name":"Dariq Whitehead","pos":"Forward","teamId":1610612751},{"id":1641715,"name":"Cam Whitmore","pos":"Forward","teamId":1610612745},{"id":1630598,"name":"Aaron Wiggins","pos":"Guard","teamId":1610612760},{"id":203952,"name":"Andrew Wiggins","pos":"Forward","teamId":1610612744},{"id":1629623,"name":"Lindell Wigginton","pos":"Guard","teamId":1610612749},{"id":1630314,"name":"Brandon Williams","pos":"Guard","teamId":1610612742},{"id":1629684,"name":"Grant Williams","pos":"Forward","teamId":1610612742},{"id":1631114,"name":"Jalen Williams","pos":"Guard/Forward","teamId":1610612760},{"id":1631119,"name":"Jaylin Williams","pos":"Forward","teamId":1610612760},{"id":1629026,"name":"Kenrich Williams","pos":"Guard/Forward","teamId":1610612760},{"id":1631109,"name":"Mark Williams","pos":"Center","teamId":1610612766},{"id":1631466,"name":"Nate Williams","pos":"Guard","teamId":1610612745},{"id":1630172,"name":"Patrick Williams","pos":"Forward","teamId":1610612741},{"id":1630533,"name":"Ziaire Williams","pos":"Forward","teamId":1610612763},{"id":1629057,"name":"Robert Williams III","pos":"Center/Forward","teamId":1610612757},{"id":1631246,"name":"Vince Williams Jr.","pos":"Guard","teamId":1610612763},{"id":1629627,"name":"Zion Williamson","pos":"Forward","teamId":1610612740},{"id":1630592,"name":"Jalen Wilson","pos":"Forward","teamId":1610612751},{"id":1629685,"name":"Dylan Windler","pos":"Guard/Forward","teamId":1610612752},{"id":1630164,"name":"James Wiseman","pos":"Center","teamId":1610612765},{"id":1631209,"name":"Isaiah Wong","pos":"Guard","teamId":1610612754},{"id":1626174,"name":"Christian Wood","pos":"Forward","teamId":1610612747},{"id":1626153,"name":"Delon Wright","pos":"Guard","teamId":1610612764},{"id":201152,"name":"Thaddeus Young","pos":"Forward","teamId":1610612761},{"id":1629027,"name":"Trae Young","pos":"Guard","teamId":1610612737},{"id":1630209,"name":"Omer Yurtseven","pos":"Center","teamId":1610612762},{"id":203469,"name":"Cody Zeller","pos":"Forward/Center","teamId":1610612740},{"id":1627826,"name":"Ivica Zubac","pos":"Center","teamId":1610612746}]
+[
+  {
+    "id": 1630173,
+    "name": "Precious Achiuwa",
+    "picture": "1630173.png",
+    "pos": "Forward",
+    "teamId": 1610612752
+  },
+  {
+    "id": 203500,
+    "name": "Steven Adams",
+    "picture": "203500.png",
+    "pos": "Center",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1628389,
+    "name": "Bam Adebayo",
+    "picture": "1628389.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1630534,
+    "name": "Ochai Agbaji",
+    "picture": "1630534.png",
+    "pos": "Guard",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1630583,
+    "name": "Santi Aldama",
+    "picture": "1630583.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1629638,
+    "name": "Nickeil Alexander-Walker",
+    "picture": "1629638.png",
+    "pos": "Guard",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1628960,
+    "name": "Grayson Allen",
+    "picture": "1628960.png",
+    "pos": "Guard",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1628386,
+    "name": "Jarrett Allen",
+    "picture": "1628386.png",
+    "pos": "Center",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1630631,
+    "name": "Jose Alvarado",
+    "picture": "1630631.png",
+    "pos": "Guard",
+    "teamId": 1610612740
+  },
+  {
+    "id": 203937,
+    "name": "Kyle Anderson",
+    "picture": "203937.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612750
+  },
+  {
+    "id": 203507,
+    "name": "Giannis Antetokounmpo",
+    "picture": "203507.png",
+    "pos": "Forward",
+    "teamId": 1610612749
+  },
+  {
+    "id": 203648,
+    "name": "Thanasis Antetokounmpo",
+    "picture": "203648.png",
+    "pos": "Forward",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1630175,
+    "name": "Cole Anthony",
+    "picture": "1630175.png",
+    "pos": "Guard",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1628384,
+    "name": "OG Anunoby",
+    "picture": "1628384.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1627853,
+    "name": "Ryan Arcidiacono",
+    "picture": "1627853.png",
+    "pos": "Guard",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1630166,
+    "name": "Deni Avdija",
+    "picture": "1630166.png",
+    "pos": "Forward",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1629028,
+    "name": "Deandre Ayton",
+    "picture": "1629028.png",
+    "pos": "Center",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1628962,
+    "name": "Udoka Azubuike",
+    "picture": "1628962.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1630641,
+    "name": "Ibou Badji",
+    "picture": "1630641.png",
+    "pos": "Center",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1628963,
+    "name": "Marvin Bagley III",
+    "picture": "1628963.png",
+    "pos": "Forward",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1641735,
+    "name": "Amari Bailey",
+    "picture": "1641735.png",
+    "pos": "Guard",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1631116,
+    "name": "Patrick Baldwin Jr.",
+    "picture": "1631116.png",
+    "pos": "Forward",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1630163,
+    "name": "LaMelo Ball",
+    "picture": "1630163.png",
+    "pos": "Guard",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1628366,
+    "name": "Lonzo Ball",
+    "picture": "1628366.png",
+    "pos": "Guard",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1628964,
+    "name": "Mo Bamba",
+    "picture": "1628964.png",
+    "pos": "Center",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1631094,
+    "name": "Paolo Banchero",
+    "picture": "1631094.png",
+    "pos": "Forward",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1630217,
+    "name": "Desmond Bane",
+    "picture": "1630217.png",
+    "pos": "Guard",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1630625,
+    "name": "Dalano Banton",
+    "picture": "1630625.png",
+    "pos": "Forward",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1631230,
+    "name": "Dominick Barlow",
+    "picture": "1631230.png",
+    "pos": "Forward",
+    "teamId": 1610612759
+  },
+  {
+    "id": 203084,
+    "name": "Harrison Barnes",
+    "picture": "203084.png",
+    "pos": "Forward",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1630567,
+    "name": "Scottie Barnes",
+    "picture": "1630567.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1629628,
+    "name": "RJ Barrett",
+    "picture": "1629628.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1629646,
+    "name": "Charles Bassey",
+    "picture": "1629646.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1641734,
+    "name": "Emoni Bates",
+    "picture": "1641734.png",
+    "pos": "Forward",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1628966,
+    "name": "Keita Bates-Diop",
+    "picture": "1628966.png",
+    "pos": "Forward",
+    "teamId": 1610612756
+  },
+  {
+    "id": 201587,
+    "name": "Nicolas Batum",
+    "picture": "201587.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612755
+  },
+  {
+    "id": 203078,
+    "name": "Bradley Beal",
+    "picture": "203078.png",
+    "pos": "Guard",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1627736,
+    "name": "Malik Beasley",
+    "picture": "1627736.png",
+    "pos": "Guard",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1630699,
+    "name": "MarJon Beauchamp",
+    "picture": "1630699.png",
+    "pos": "Forward",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1631262,
+    "name": "Jules Bernard",
+    "picture": "1631262.png",
+    "pos": "Guard",
+    "teamId": 1610612764
+  },
+  {
+    "id": 202722,
+    "name": "Davis Bertans",
+    "picture": "202722.png",
+    "pos": "Forward",
+    "teamId": 1610612760
+  },
+  {
+    "id": 201976,
+    "name": "Patrick Beverley",
+    "picture": "201976.png",
+    "pos": "Guard",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1630180,
+    "name": "Saddiq Bey",
+    "picture": "1630180.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1629048,
+    "name": "Goga Bitadze",
+    "picture": "1629048.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1641931,
+    "name": "Onuralp Bitim",
+    "picture": "1641931.png",
+    "pos": "Forward",
+    "teamId": 1610612741
+  },
+  {
+    "id": 202687,
+    "name": "Bismack Biyombo",
+    "picture": "202687.png",
+    "pos": "Center",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1641710,
+    "name": "Anthony Black",
+    "picture": "1641710.png",
+    "pos": "Guard",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1641778,
+    "name": "Leaky Black",
+    "picture": "1641778.png",
+    "pos": "Forward",
+    "teamId": 1610612766
+  },
+  {
+    "id": 203992,
+    "name": "Bogdan Bogdanovic",
+    "picture": "203992.png",
+    "pos": "Guard",
+    "teamId": 1610612737
+  },
+  {
+    "id": 202711,
+    "name": "Bojan Bogdanovic",
+    "picture": "202711.png",
+    "pos": "Forward",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1629626,
+    "name": "Bol Bol",
+    "picture": "1629626.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1629716,
+    "name": "Marques Bolden",
+    "picture": "1629716.png",
+    "pos": "Center",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1626164,
+    "name": "Devin Booker",
+    "picture": "1626164.png",
+    "pos": "Guard",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1630527,
+    "name": "Brandon Boston Jr.",
+    "picture": "1630527.png",
+    "pos": "Guard",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1628449,
+    "name": "Chris Boucher",
+    "picture": "1628449.png",
+    "pos": "Forward",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1630547,
+    "name": "James Bouknight",
+    "picture": "1630547.png",
+    "pos": "Guard",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1631123,
+    "name": "Jamaree Bouyea",
+    "picture": "1631123.png",
+    "pos": "Guard",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1631103,
+    "name": "Malaki Branham",
+    "picture": "1631103.png",
+    "pos": "Forward",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1631128,
+    "name": "Christian Braun",
+    "picture": "1631128.png",
+    "pos": "Guard",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1628969,
+    "name": "Mikal Bridges",
+    "picture": "1628969.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1628970,
+    "name": "Miles Bridges",
+    "picture": "1628970.png",
+    "pos": "Forward",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1629052,
+    "name": "Oshae Brissett",
+    "picture": "1629052.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1627763,
+    "name": "Malcolm Brogdon",
+    "picture": "1627763.png",
+    "pos": "Guard",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1629717,
+    "name": "Armoni Brooks",
+    "picture": "1629717.png",
+    "pos": "Guard",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1628415,
+    "name": "Dillon Brooks",
+    "picture": "1628415.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1628971,
+    "name": "Bruce Brown",
+    "picture": "1628971.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1627759,
+    "name": "Jaylen Brown",
+    "picture": "1627759.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1631112,
+    "name": "Kendall Brown",
+    "picture": "1631112.png",
+    "pos": "Guard",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1641738,
+    "name": "Kobe Brown",
+    "picture": "1641738.png",
+    "pos": "Forward",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1629650,
+    "name": "Moses Brown",
+    "picture": "1629650.png",
+    "pos": "Center",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1630535,
+    "name": "Greg Brown III",
+    "picture": "1630535.png",
+    "pos": "Forward",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1629718,
+    "name": "Charlie Brown Jr.",
+    "picture": "1629718.png",
+    "pos": "Guard",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1628972,
+    "name": "Troy Brown Jr.",
+    "picture": "1628972.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1628973,
+    "name": "Jalen Brunson",
+    "picture": "1628973.png",
+    "pos": "Guard",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1628418,
+    "name": "Thomas Bryant",
+    "picture": "1628418.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1641723,
+    "name": "Kobe Bufkin",
+    "picture": "1641723.png",
+    "pos": "Guard",
+    "teamId": 1610612737
+  },
+  {
+    "id": 203493,
+    "name": "Reggie Bullock Jr.",
+    "picture": "203493.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612745
+  },
+  {
+    "id": 202692,
+    "name": "Alec Burks",
+    "picture": "202692.png",
+    "pos": "Guard",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1630215,
+    "name": "Jared Butler",
+    "picture": "1630215.png",
+    "pos": "Guard",
+    "teamId": 1610612764
+  },
+  {
+    "id": 202710,
+    "name": "Jimmy Butler",
+    "picture": "202710.png",
+    "pos": "Forward",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1631288,
+    "name": "Jamal Cain",
+    "picture": "1631288.png",
+    "pos": "Forward",
+    "teamId": 1610612748
+  },
+  {
+    "id": 203484,
+    "name": "Kentavious Caldwell-Pope",
+    "picture": "203484.png",
+    "pos": "Guard",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1641739,
+    "name": "Toumani Camara",
+    "picture": "1641739.png",
+    "pos": "Forward",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1628427,
+    "name": "Vlatko Cancar",
+    "picture": "1628427.png",
+    "pos": "Forward",
+    "teamId": 1610612743
+  },
+  {
+    "id": 203991,
+    "name": "Clint Capela",
+    "picture": "203991.png",
+    "pos": "Center",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1628975,
+    "name": "Jevon Carter",
+    "picture": "1628975.png",
+    "pos": "Guard",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1628976,
+    "name": "Wendell Carter Jr.",
+    "picture": "1628976.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1627936,
+    "name": "Alex Caruso",
+    "picture": "1627936.png",
+    "pos": "Guard",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1630658,
+    "name": "Colin Castleton",
+    "picture": "1630658.png",
+    "pos": "Center",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1630608,
+    "name": "Malcolm Cazalon",
+    "picture": "1630608.png",
+    "pos": "Guard",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1630577,
+    "name": "Julian Champagnie",
+    "picture": "1630577.png",
+    "pos": "Forward",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1631108,
+    "name": "Max Christie",
+    "picture": "1631108.png",
+    "pos": "Guard",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1630528,
+    "name": "Josh Christopher",
+    "picture": "1630528.png",
+    "pos": "Guard",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1631321,
+    "name": "Sidy Cissoko",
+    "picture": "1631321.png",
+    "pos": "Guard",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1641740,
+    "name": "Jaylen Clark",
+    "picture": "1641740.png",
+    "pos": "Guard",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1629634,
+    "name": "Brandon Clarke",
+    "picture": "1629634.png",
+    "pos": "Forward",
+    "teamId": 1610612763
+  },
+  {
+    "id": 203903,
+    "name": "Jordan Clarkson",
+    "picture": "203903.png",
+    "pos": "Guard",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1629651,
+    "name": "Nic Claxton",
+    "picture": "1629651.png",
+    "pos": "Center",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1641730,
+    "name": "Noah Clowney",
+    "picture": "1641730.png",
+    "pos": "Forward",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1629599,
+    "name": "Amir Coffey",
+    "picture": "1629599.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1628381,
+    "name": "John Collins",
+    "picture": "1628381.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1628380,
+    "name": "Zach Collins",
+    "picture": "1628380.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612759
+  },
+  {
+    "id": 201144,
+    "name": "Mike Conley",
+    "picture": "201144.png",
+    "pos": "Guard",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1626192,
+    "name": "Pat Connaughton",
+    "picture": "1626192.png",
+    "pos": "Guard",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1641731,
+    "name": "Bilal Coulibaly",
+    "picture": "1641731.png",
+    "pos": "Guard",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1641741,
+    "name": "Ricky Council IV",
+    "picture": "1641741.png",
+    "pos": "Guard",
+    "teamId": 1610612755
+  },
+  {
+    "id": 203496,
+    "name": "Robert Covington",
+    "picture": "203496.png",
+    "pos": "Forward",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1628470,
+    "name": "Torrey Craig",
+    "picture": "1628470.png",
+    "pos": "Forward",
+    "teamId": 1610612741
+  },
+  {
+    "id": 203109,
+    "name": "Jae Crowder",
+    "picture": "203109.png",
+    "pos": "Forward",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1630595,
+    "name": "Cade Cunningham",
+    "picture": "1630595.png",
+    "pos": "Guard",
+    "teamId": 1610612765
+  },
+  {
+    "id": 203552,
+    "name": "Seth Curry",
+    "picture": "203552.png",
+    "pos": "Guard",
+    "teamId": 1610612742
+  },
+  {
+    "id": 201939,
+    "name": "Stephen Curry",
+    "picture": "201939.png",
+    "pos": "Guard",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1630700,
+    "name": "Dyson Daniels",
+    "picture": "1630700.png",
+    "pos": "Guard",
+    "teamId": 1610612740
+  },
+  {
+    "id": 203076,
+    "name": "Anthony Davis",
+    "picture": "203076.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1631098,
+    "name": "Johnny Davis",
+    "picture": "1631098.png",
+    "pos": "Guard",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1631120,
+    "name": "JD Davison",
+    "picture": "1631120.png",
+    "pos": "Guard",
+    "teamId": 1610612738
+  },
+  {
+    "id": 201942,
+    "name": "DeMar DeRozan",
+    "picture": "201942.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1641926,
+    "name": "Dexter Dennis",
+    "picture": "1641926.png",
+    "pos": "Guard",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1628978,
+    "name": "Donte DiVincenzo",
+    "picture": "1628978.png",
+    "pos": "Guard",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1631217,
+    "name": "Moussa Diabate",
+    "picture": "1631217.png",
+    "pos": "Forward",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1629603,
+    "name": "Mamadi Diakite",
+    "picture": "1629603.png",
+    "pos": "Forward",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1641711,
+    "name": "Gradey Dick",
+    "picture": "1641711.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1631172,
+    "name": "Ousmane Dieng",
+    "picture": "1631172.png",
+    "pos": "Forward",
+    "teamId": 1610612760
+  },
+  {
+    "id": 203915,
+    "name": "Spencer Dinwiddie",
+    "picture": "203915.png",
+    "pos": "Guard",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1629029,
+    "name": "Luka Doncic",
+    "picture": "1629029.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1629652,
+    "name": "Luguentz Dort",
+    "picture": "1629652.png",
+    "pos": "Guard",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1630245,
+    "name": "Ayo Dosunmu",
+    "picture": "1630245.png",
+    "pos": "Guard",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1630929,
+    "name": "Henri Drell",
+    "picture": "1630929.png",
+    "pos": "Forward",
+    "teamId": 1610612741
+  },
+  {
+    "id": 203083,
+    "name": "Andre Drummond",
+    "picture": "203083.png",
+    "pos": "Center",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1630537,
+    "name": "Chris Duarte",
+    "picture": "1630537.png",
+    "pos": "Guard",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1630561,
+    "name": "David Duke Jr.",
+    "picture": "1630561.png",
+    "pos": "Guard",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1627739,
+    "name": "Kris Dunn",
+    "picture": "1627739.png",
+    "pos": "Guard",
+    "teamId": 1610612762
+  },
+  {
+    "id": 201142,
+    "name": "Kevin Durant",
+    "picture": "201142.png",
+    "pos": "Forward",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1631105,
+    "name": "Jalen Duren",
+    "picture": "1631105.png",
+    "pos": "Center",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1631106,
+    "name": "Tari Eason",
+    "picture": "1631106.png",
+    "pos": "Forward",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1630162,
+    "name": "Anthony Edwards",
+    "picture": "1630162.png",
+    "pos": "Guard",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1630556,
+    "name": "Kessler Edwards",
+    "picture": "1630556.png",
+    "pos": "Forward",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1631165,
+    "name": "Keon Ellis",
+    "picture": "1631165.png",
+    "pos": "Guard",
+    "teamId": 1610612758
+  },
+  {
+    "id": 203954,
+    "name": "Joel Embiid",
+    "picture": "203954.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1629234,
+    "name": "Drew Eubanks",
+    "picture": "1629234.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612756
+  },
+  {
+    "id": 203957,
+    "name": "Dante Exum",
+    "picture": "203957.png",
+    "pos": "Guard",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1628981,
+    "name": "Bruno Fernando",
+    "picture": "1628981.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1627827,
+    "name": "Dorian Finney-Smith",
+    "picture": "1627827.png",
+    "pos": "Forward",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1630201,
+    "name": "Malachi Flynn",
+    "picture": "1630201.png",
+    "pos": "Guard",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1631323,
+    "name": "Simone Fontecchio",
+    "picture": "1631323.png",
+    "pos": "Forward",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1630259,
+    "name": "Jordan Ford",
+    "picture": "1630259.png",
+    "pos": "Guard",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1630235,
+    "name": "Trent Forrest",
+    "picture": "1630235.png",
+    "pos": "Guard",
+    "teamId": 1610612737
+  },
+  {
+    "id": 203095,
+    "name": "Evan Fournier",
+    "picture": "203095.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1628368,
+    "name": "De'Aaron Fox",
+    "picture": "1628368.png",
+    "pos": "Guard",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1631241,
+    "name": "Javon Freeman-Liberty",
+    "picture": "1631241.png",
+    "pos": "Guard",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1641788,
+    "name": "Alex Fudge",
+    "picture": "1641788.png",
+    "pos": "Forward",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1628365,
+    "name": "Markelle Fultz",
+    "picture": "1628365.png",
+    "pos": "Guard",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1629655,
+    "name": "Daniel Gafford",
+    "picture": "1629655.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612764
+  },
+  {
+    "id": 201568,
+    "name": "Danilo Gallinari",
+    "picture": "201568.png",
+    "pos": "Forward",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1629636,
+    "name": "Darius Garland",
+    "picture": "1629636.png",
+    "pos": "Guard",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1630586,
+    "name": "Usman Garuba",
+    "picture": "1630586.png",
+    "pos": "Forward",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1630568,
+    "name": "Luka Garza",
+    "picture": "1630568.png",
+    "pos": "Center",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1629232,
+    "name": "Kaiser Gates",
+    "picture": "1629232.png",
+    "pos": "Forward",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1641718,
+    "name": "Keyonte George",
+    "picture": "1641718.png",
+    "pos": "Guard",
+    "teamId": 1610612762
+  },
+  {
+    "id": 202331,
+    "name": "Paul George",
+    "picture": "202331.png",
+    "pos": "Forward",
+    "teamId": 1610612746
+  },
+  {
+    "id": 201959,
+    "name": "Taj Gibson",
+    "picture": "201959.png",
+    "pos": "Forward",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1630581,
+    "name": "Josh Giddey",
+    "picture": "1630581.png",
+    "pos": "Guard",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1628385,
+    "name": "Harry Giles III",
+    "picture": "1628385.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1628983,
+    "name": "Shai Gilgeous-Alexander",
+    "picture": "1628983.png",
+    "pos": "Guard",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1630264,
+    "name": "Anthony Gill",
+    "picture": "1630264.png",
+    "pos": "Forward",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1631221,
+    "name": "Collin Gillespie",
+    "picture": "1631221.png",
+    "pos": "Guard",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1631367,
+    "name": "Jacob Gilyard",
+    "picture": "1631367.png",
+    "pos": "Guard",
+    "teamId": 1610612763
+  },
+  {
+    "id": 203497,
+    "name": "Rudy Gobert",
+    "picture": "203497.png",
+    "pos": "Center",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1630692,
+    "name": "Jordan Goodwin",
+    "picture": "1630692.png",
+    "pos": "Guard",
+    "teamId": 1610612756
+  },
+  {
+    "id": 203932,
+    "name": "Aaron Gordon",
+    "picture": "203932.png",
+    "pos": "Forward",
+    "teamId": 1610612743
+  },
+  {
+    "id": 201569,
+    "name": "Eric Gordon",
+    "picture": "201569.png",
+    "pos": "Guard",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1628984,
+    "name": "Devonte' Graham",
+    "picture": "1628984.png",
+    "pos": "Guard",
+    "teamId": 1610612759
+  },
+  {
+    "id": 203924,
+    "name": "Jerami Grant",
+    "picture": "203924.png",
+    "pos": "Forward",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1631260,
+    "name": "AJ Green",
+    "picture": "1631260.png",
+    "pos": "Guard",
+    "teamId": 1610612749
+  },
+  {
+    "id": 201980,
+    "name": "Danny Green",
+    "picture": "201980.png",
+    "pos": "Guard",
+    "teamId": 1610612755
+  },
+  {
+    "id": 203110,
+    "name": "Draymond Green",
+    "picture": "203110.png",
+    "pos": "Forward",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1630224,
+    "name": "Jalen Green",
+    "picture": "1630224.png",
+    "pos": "Guard",
+    "teamId": 1610612745
+  },
+  {
+    "id": 201145,
+    "name": "Jeff Green",
+    "picture": "201145.png",
+    "pos": "Forward",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1630182,
+    "name": "Josh Green",
+    "picture": "1630182.png",
+    "pos": "Guard",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1631100,
+    "name": "AJ Griffin",
+    "picture": "1631100.png",
+    "pos": "Forward",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1629656,
+    "name": "Quentin Grimes",
+    "picture": "1629656.png",
+    "pos": "Guard",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1631243,
+    "name": "Mouhamed Gueye",
+    "picture": "1631243.png",
+    "pos": "Forward",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1629060,
+    "name": "Rui Hachimura",
+    "picture": "1629060.png",
+    "pos": "Forward",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1630169,
+    "name": "Tyrese Haliburton",
+    "picture": "1630169.png",
+    "pos": "Guard",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1630181,
+    "name": "R.J. Hampton",
+    "picture": "1630181.png",
+    "pos": "Guard",
+    "teamId": 1610612748
+  },
+  {
+    "id": 203501,
+    "name": "Tim Hardaway Jr.",
+    "picture": "203501.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612742
+  },
+  {
+    "id": 201935,
+    "name": "James Harden",
+    "picture": "201935.png",
+    "pos": "Guard",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1630702,
+    "name": "Jaden Hardy",
+    "picture": "1630702.png",
+    "pos": "Guard",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1631199,
+    "name": "Ron Harper Jr.",
+    "picture": "1631199.png",
+    "pos": "Forward",
+    "teamId": 1610612761
+  },
+  {
+    "id": 203914,
+    "name": "Gary Harris",
+    "picture": "203914.png",
+    "pos": "Guard",
+    "teamId": 1610612753
+  },
+  {
+    "id": 203925,
+    "name": "Joe Harris",
+    "picture": "203925.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1630284,
+    "name": "Kevon Harris",
+    "picture": "1630284.png",
+    "pos": "Guard",
+    "teamId": 1610612753
+  },
+  {
+    "id": 202699,
+    "name": "Tobias Harris",
+    "picture": "202699.png",
+    "pos": "Forward",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1627885,
+    "name": "Shaquille Harrison",
+    "picture": "1627885.png",
+    "pos": "Guard",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1628404,
+    "name": "Josh Hart",
+    "picture": "1628404.png",
+    "pos": "Guard",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1628392,
+    "name": "Isaiah Hartenstein",
+    "picture": "1628392.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1630573,
+    "name": "Sam Hauser",
+    "picture": "1630573.png",
+    "pos": "Forward",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1641722,
+    "name": "Jordan Hawkins",
+    "picture": "1641722.png",
+    "pos": "Guard",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1629637,
+    "name": "Jaxson Hayes",
+    "picture": "1629637.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1630165,
+    "name": "Killian Hayes",
+    "picture": "1630165.png",
+    "pos": "Guard",
+    "teamId": 1610612765
+  },
+  {
+    "id": 202330,
+    "name": "Gordon Hayward",
+    "picture": "202330.png",
+    "pos": "Forward",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1630703,
+    "name": "Scoot Henderson",
+    "picture": "1630703.png",
+    "pos": "Guard",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1641707,
+    "name": "Taylor Hendricks",
+    "picture": "1641707.png",
+    "pos": "Forward",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1629639,
+    "name": "Tyler Herro",
+    "picture": "1629639.png",
+    "pos": "Guard",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1627741,
+    "name": "Buddy Hield",
+    "picture": "1627741.png",
+    "pos": "Guard",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1629312,
+    "name": "Haywood Highsmith",
+    "picture": "1629312.png",
+    "pos": "Forward",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1630207,
+    "name": "Nate Hinton",
+    "picture": "1630207.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1641793,
+    "name": "D'Moi Hodge",
+    "picture": "1641793.png",
+    "pos": "Guard",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1628988,
+    "name": "Aaron Holiday",
+    "picture": "1628988.png",
+    "pos": "Guard",
+    "teamId": 1610612745
+  },
+  {
+    "id": 201950,
+    "name": "Jrue Holiday",
+    "picture": "201950.png",
+    "pos": "Guard",
+    "teamId": 1610612738
+  },
+  {
+    "id": 203200,
+    "name": "Justin Holiday",
+    "picture": "203200.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1626158,
+    "name": "Richaun Holmes",
+    "picture": "1626158.png",
+    "pos": "Forward",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1631096,
+    "name": "Chet Holmgren",
+    "picture": "1631096.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1641720,
+    "name": "Jalen Hood-Schifino",
+    "picture": "1641720.png",
+    "pos": "Guard",
+    "teamId": 1610612747
+  },
+  {
+    "id": 201143,
+    "name": "Al Horford",
+    "picture": "201143.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1629659,
+    "name": "Talen Horton-Tucker",
+    "picture": "1629659.png",
+    "pos": "Guard",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1627863,
+    "name": "Danuel House Jr.",
+    "picture": "1627863.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1631216,
+    "name": "Caleb Houstan",
+    "picture": "1631216.png",
+    "pos": "Guard",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1641724,
+    "name": "Jett Howard",
+    "picture": "1641724.png",
+    "pos": "Guard",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1628989,
+    "name": "Kevin Huerter",
+    "picture": "1628989.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1630643,
+    "name": "Jay Huff",
+    "picture": "1630643.png",
+    "pos": "Center",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1629631,
+    "name": "De'Andre Hunter",
+    "picture": "1629631.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1630538,
+    "name": "Bones Hyland",
+    "picture": "1630538.png",
+    "pos": "Guard",
+    "teamId": 1610612746
+  },
+  {
+    "id": 204060,
+    "name": "Joe Ingles",
+    "picture": "204060.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1627742,
+    "name": "Brandon Ingram",
+    "picture": "1627742.png",
+    "pos": "Forward",
+    "teamId": 1610612740
+  },
+  {
+    "id": 202681,
+    "name": "Kyrie Irving",
+    "picture": "202681.png",
+    "pos": "Guard",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1628371,
+    "name": "Jonathan Isaac",
+    "picture": "1628371.png",
+    "pos": "Forward",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1631093,
+    "name": "Jaden Ivey",
+    "picture": "1631093.png",
+    "pos": "Guard",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1641713,
+    "name": "GG Jackson",
+    "picture": "1641713.png",
+    "pos": "Forward",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1630543,
+    "name": "Isaiah Jackson",
+    "picture": "1630543.png",
+    "pos": "Forward",
+    "teamId": 1610612754
+  },
+  {
+    "id": 202704,
+    "name": "Reggie Jackson",
+    "picture": "202704.png",
+    "pos": "Guard",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1641748,
+    "name": "Andre Jackson Jr.",
+    "picture": "1641748.png",
+    "pos": "Guard",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1628991,
+    "name": "Jaren Jackson Jr.",
+    "picture": "1628991.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1631218,
+    "name": "Trayce Jackson-Davis",
+    "picture": "1631218.png",
+    "pos": "Forward",
+    "teamId": 1610612744
+  },
+  {
+    "id": 2544,
+    "name": "LeBron James",
+    "picture": "2544.png",
+    "pos": "Forward",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1631170,
+    "name": "Jaime Jaquez Jr.",
+    "picture": "1631170.png",
+    "pos": "Guard",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1629610,
+    "name": "DaQuan Jeffries",
+    "picture": "1629610.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1629660,
+    "name": "Ty Jerome",
+    "picture": "1629660.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1630198,
+    "name": "Isaiah Joe",
+    "picture": "1630198.png",
+    "pos": "Guard",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1629661,
+    "name": "Cameron Johnson",
+    "picture": "1629661.png",
+    "pos": "Forward",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1630552,
+    "name": "Jalen Johnson",
+    "picture": "1630552.png",
+    "pos": "Forward",
+    "teamId": 1610612737
+  },
+  {
+    "id": 201949,
+    "name": "James Johnson",
+    "picture": "201949.png",
+    "pos": "Forward",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1629640,
+    "name": "Keldon Johnson",
+    "picture": "1629640.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1630553,
+    "name": "Keon Johnson",
+    "picture": "1630553.png",
+    "pos": "Guard",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1641749,
+    "name": "Keyontae Johnson",
+    "picture": "1641749.png",
+    "pos": "Forward",
+    "teamId": 1610612760
+  },
+  {
+    "id": 203999,
+    "name": "Nikola Jokic",
+    "picture": "203999.png",
+    "pos": "Center",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1641732,
+    "name": "Colby Jones",
+    "picture": "1641732.png",
+    "pos": "Guard",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1627745,
+    "name": "Damian Jones",
+    "picture": "1627745.png",
+    "pos": "Center",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1630529,
+    "name": "Herbert Jones",
+    "picture": "1630529.png",
+    "pos": "Forward",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1630200,
+    "name": "Tre Jones",
+    "picture": "1630200.png",
+    "pos": "Guard",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1626145,
+    "name": "Tyus Jones",
+    "picture": "1626145.png",
+    "pos": "Guard",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1627884,
+    "name": "Derrick Jones Jr.",
+    "picture": "1627884.png",
+    "pos": "Forward",
+    "teamId": 1610612742
+  },
+  {
+    "id": 201599,
+    "name": "DeAndre Jordan",
+    "picture": "201599.png",
+    "pos": "Center",
+    "teamId": 1610612743
+  },
+  {
+    "id": 202709,
+    "name": "Cory Joseph",
+    "picture": "202709.png",
+    "pos": "Guard",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1631107,
+    "name": "Nikola Jovic",
+    "picture": "1631107.png",
+    "pos": "Forward",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1630548,
+    "name": "Johnny Juzang",
+    "picture": "1630548.png",
+    "pos": "Guard",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1628379,
+    "name": "Luke Kennard",
+    "picture": "1628379.png",
+    "pos": "Guard",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1631117,
+    "name": "Walker Kessler",
+    "picture": "1631117.png",
+    "pos": "Center",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1630296,
+    "name": "Braxton Key",
+    "picture": "1630296.png",
+    "pos": "Forward",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1630557,
+    "name": "Corey Kispert",
+    "picture": "1630557.png",
+    "pos": "Forward",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1628467,
+    "name": "Maxi Kleber",
+    "picture": "1628467.png",
+    "pos": "Forward",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1628995,
+    "name": "Kevin Knox II",
+    "picture": "1628995.png",
+    "pos": "Forward",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1631132,
+    "name": "Christian Koloko",
+    "picture": "1631132.png",
+    "pos": "Center",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1629723,
+    "name": "John Konchar",
+    "picture": "1629723.png",
+    "pos": "Guard",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1627788,
+    "name": "Furkan Korkmaz",
+    "picture": "1627788.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1628436,
+    "name": "Luke Kornet",
+    "picture": "1628436.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1630249,
+    "name": "Vit Krejci",
+    "picture": "1630249.png",
+    "pos": "Guard",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1630228,
+    "name": "Jonathan Kuminga",
+    "picture": "1630228.png",
+    "pos": "Forward",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1628398,
+    "name": "Kyle Kuzma",
+    "picture": "1628398.png",
+    "pos": "Forward",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1631222,
+    "name": "Jake LaRavia",
+    "picture": "1631222.png",
+    "pos": "Forward",
+    "teamId": 1610612763
+  },
+  {
+    "id": 203897,
+    "name": "Zach LaVine",
+    "picture": "203897.png",
+    "pos": "Guard",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1629111,
+    "name": "Jock Landale",
+    "picture": "1629111.png",
+    "pos": "Center",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1630639,
+    "name": "A.J. Lawson",
+    "picture": "1630639.png",
+    "pos": "Guard",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1627747,
+    "name": "Caris LeVert",
+    "picture": "1627747.png",
+    "pos": "Guard",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1627814,
+    "name": "Damion Lee",
+    "picture": "1627814.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1630240,
+    "name": "Saben Lee",
+    "picture": "1630240.png",
+    "pos": "Guard",
+    "teamId": 1610612756
+  },
+  {
+    "id": 203458,
+    "name": "Alex Len",
+    "picture": "203458.png",
+    "pos": "Center",
+    "teamId": 1610612758
+  },
+  {
+    "id": 202695,
+    "name": "Kawhi Leonard",
+    "picture": "202695.png",
+    "pos": "Forward",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1641721,
+    "name": "Maxwell Lewis",
+    "picture": "1641721.png",
+    "pos": "Forward",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1630184,
+    "name": "Kira Lewis Jr.",
+    "picture": "1630184.png",
+    "pos": "Guard",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1630604,
+    "name": "E.J. Liddell",
+    "picture": "1630604.png",
+    "pos": "Forward",
+    "teamId": 1610612740
+  },
+  {
+    "id": 203081,
+    "name": "Damian Lillard",
+    "picture": "203081.png",
+    "pos": "Guard",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1629642,
+    "name": "Nassir Little",
+    "picture": "1629642.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1641726,
+    "name": "Dereck Lively II",
+    "picture": "1641726.png",
+    "pos": "Center",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1630587,
+    "name": "Isaiah Livers",
+    "picture": "1630587.png",
+    "pos": "Forward",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1641753,
+    "name": "Chris Livingston",
+    "picture": "1641753.png",
+    "pos": "Forward",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1631254,
+    "name": "Kenneth Lofton Jr.",
+    "picture": "1631254.png",
+    "pos": "Forward",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1626172,
+    "name": "Kevon Looney",
+    "picture": "1626172.png",
+    "pos": "Forward",
+    "teamId": 1610612744
+  },
+  {
+    "id": 201572,
+    "name": "Brook Lopez",
+    "picture": "201572.png",
+    "pos": "Center",
+    "teamId": 1610612749
+  },
+  {
+    "id": 201577,
+    "name": "Robin Lopez",
+    "picture": "201577.png",
+    "pos": "Center",
+    "teamId": 1610612749
+  },
+  {
+    "id": 201567,
+    "name": "Kevin Love",
+    "picture": "201567.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612748
+  },
+  {
+    "id": 200768,
+    "name": "Kyle Lowry",
+    "picture": "200768.png",
+    "pos": "Guard",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1641754,
+    "name": "Seth Lundy",
+    "picture": "1641754.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1626168,
+    "name": "Trey Lyles",
+    "picture": "1626168.png",
+    "pos": "Forward",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1630177,
+    "name": "Theo Maledon",
+    "picture": "1630177.png",
+    "pos": "Guard",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1630572,
+    "name": "Sandro Mamukelashvili",
+    "picture": "1630572.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1629611,
+    "name": "Terance Mann",
+    "picture": "1629611.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1630544,
+    "name": "Tre Mann",
+    "picture": "1630544.png",
+    "pos": "Guard",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1626246,
+    "name": "Boban Marjanovic",
+    "picture": "1626246.png",
+    "pos": "Center",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1628374,
+    "name": "Lauri Markkanen",
+    "picture": "1628374.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1630230,
+    "name": "Naji Marshall",
+    "picture": "1630230.png",
+    "pos": "Forward",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1628997,
+    "name": "Caleb Martin",
+    "picture": "1628997.png",
+    "pos": "Forward",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1628998,
+    "name": "Cody Martin",
+    "picture": "1628998.png",
+    "pos": "Forward",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1630231,
+    "name": "KJ Martin",
+    "picture": "1630231.png",
+    "pos": "Forward",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1629726,
+    "name": "Garrison Mathews",
+    "picture": "1629726.png",
+    "pos": "Guard",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1631097,
+    "name": "Bennedict Mathurin",
+    "picture": "1631097.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612754
+  },
+  {
+    "id": 202083,
+    "name": "Wesley Matthews",
+    "picture": "202083.png",
+    "pos": "Guard",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1630178,
+    "name": "Tyrese Maxey",
+    "picture": "1630178.png",
+    "pos": "Guard",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1630219,
+    "name": "Skylar Mays",
+    "picture": "1630219.png",
+    "pos": "Guard",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1630540,
+    "name": "Miles McBride",
+    "picture": "1630540.png",
+    "pos": "Guard",
+    "teamId": 1610612752
+  },
+  {
+    "id": 203468,
+    "name": "CJ McCollum",
+    "picture": "203468.png",
+    "pos": "Guard",
+    "teamId": 1610612740
+  },
+  {
+    "id": 204456,
+    "name": "T.J. McConnell",
+    "picture": "204456.png",
+    "pos": "Guard",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1630183,
+    "name": "Jaden McDaniels",
+    "picture": "1630183.png",
+    "pos": "Forward",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1629667,
+    "name": "Jalen McDaniels",
+    "picture": "1629667.png",
+    "pos": "Forward",
+    "teamId": 1610612761
+  },
+  {
+    "id": 203926,
+    "name": "Doug McDermott",
+    "picture": "203926.png",
+    "pos": "Forward",
+    "teamId": 1610612759
+  },
+  {
+    "id": 201580,
+    "name": "JaVale McGee",
+    "picture": "201580.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1631121,
+    "name": "Bryce McGowens",
+    "picture": "1631121.png",
+    "pos": "Guard",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1629162,
+    "name": "Jordan McLaughlin",
+    "picture": "1629162.png",
+    "pos": "Guard",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1629001,
+    "name": "De'Anthony Melton",
+    "picture": "1629001.png",
+    "pos": "Guard",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1641877,
+    "name": "Nathan Mensah",
+    "picture": "1641877.png",
+    "pos": "Center",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1630241,
+    "name": "Sam Merrill",
+    "picture": "1630241.png",
+    "pos": "Guard",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1629002,
+    "name": "Chimezie Metu",
+    "picture": "1629002.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612756
+  },
+  {
+    "id": 203995,
+    "name": "Vasilije Micic",
+    "picture": "203995.png",
+    "pos": "Guard",
+    "teamId": 1610612760
+  },
+  {
+    "id": 203114,
+    "name": "Khris Middleton",
+    "picture": "203114.png",
+    "pos": "Forward",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1641706,
+    "name": "Brandon Miller",
+    "picture": "1641706.png",
+    "pos": "Forward",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1641757,
+    "name": "Jordan Miller",
+    "picture": "1641757.png",
+    "pos": "Guard",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1631159,
+    "name": "Leonard Miller",
+    "picture": "1631159.png",
+    "pos": "Forward",
+    "teamId": 1610612750
+  },
+  {
+    "id": 201988,
+    "name": "Patty Mills",
+    "picture": "201988.png",
+    "pos": "Guard",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1629003,
+    "name": "Shake Milton",
+    "picture": "1629003.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1631303,
+    "name": "Justin Minaya",
+    "picture": "1631303.png",
+    "pos": "Forward",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1631169,
+    "name": "Josh Minott",
+    "picture": "1631169.png",
+    "pos": "Forward",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1630558,
+    "name": "Davion Mitchell",
+    "picture": "1630558.png",
+    "pos": "Guard",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1628378,
+    "name": "Donovan Mitchell",
+    "picture": "1628378.png",
+    "pos": "Guard",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1630596,
+    "name": "Evan Mobley",
+    "picture": "1630596.png",
+    "pos": "Center",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1630600,
+    "name": "Isaiah Mobley",
+    "picture": "1630600.png",
+    "pos": "Forward",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1628370,
+    "name": "Malik Monk",
+    "picture": "1628370.png",
+    "pos": "Guard",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1630541,
+    "name": "Moses Moody",
+    "picture": "1630541.png",
+    "pos": "Guard",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1629875,
+    "name": "Xavier Moon",
+    "picture": "1629875.png",
+    "pos": "Guard",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1631111,
+    "name": "Wendell Moore Jr.",
+    "picture": "1631111.png",
+    "pos": "Guard",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1629630,
+    "name": "Ja Morant",
+    "picture": "1629630.png",
+    "pos": "Guard",
+    "teamId": 1610612763
+  },
+  {
+    "id": 202693,
+    "name": "Markieff Morris",
+    "picture": "202693.png",
+    "pos": "Forward",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1628420,
+    "name": "Monte Morris",
+    "picture": "1628420.png",
+    "pos": "Guard",
+    "teamId": 1610612765
+  },
+  {
+    "id": 202694,
+    "name": "Marcus Morris Sr.",
+    "picture": "202694.png",
+    "pos": "Forward",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1630530,
+    "name": "Trey Murphy III",
+    "picture": "1630530.png",
+    "pos": "Forward",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1627749,
+    "name": "Dejounte Murray",
+    "picture": "1627749.png",
+    "pos": "Guard",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1627750,
+    "name": "Jamal Murray",
+    "picture": "1627750.png",
+    "pos": "Guard",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1631099,
+    "name": "Keegan Murray",
+    "picture": "1631099.png",
+    "pos": "Forward",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1631200,
+    "name": "Kris Murray",
+    "picture": "1631200.png",
+    "pos": "Forward",
+    "teamId": 1610612757
+  },
+  {
+    "id": 203488,
+    "name": "Mike Muscala",
+    "picture": "203488.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1629004,
+    "name": "Svi Mykhailiuk",
+    "picture": "1629004.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1626204,
+    "name": "Larry Nance Jr.",
+    "picture": "1626204.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1629614,
+    "name": "Andrew Nembhard",
+    "picture": "1629614.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1630174,
+    "name": "Aaron Nesmith",
+    "picture": "1630174.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1627777,
+    "name": "Georges Niang",
+    "picture": "1627777.png",
+    "pos": "Forward",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1630227,
+    "name": "Daishen Nix",
+    "picture": "1630227.png",
+    "pos": "Guard",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1630192,
+    "name": "Zeke Nnaji",
+    "picture": "1630192.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1629669,
+    "name": "Jaylen Nowell",
+    "picture": "1629669.png",
+    "pos": "Guard",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1641806,
+    "name": "Markquis Nowell",
+    "picture": "1641806.png",
+    "pos": "Guard",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1628373,
+    "name": "Frank Ntilikina",
+    "picture": "1628373.png",
+    "pos": "Guard",
+    "teamId": 1610612766
+  },
+  {
+    "id": 203994,
+    "name": "Jusuf Nurkic",
+    "picture": "203994.png",
+    "pos": "Center",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1629670,
+    "name": "Jordan Nwora",
+    "picture": "1629670.png",
+    "pos": "Forward",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1626220,
+    "name": "Royce O'Neale",
+    "picture": "1626220.png",
+    "pos": "Forward",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1629643,
+    "name": "Chuma Okeke",
+    "picture": "1629643.png",
+    "pos": "Forward",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1629006,
+    "name": "Josh Okogie",
+    "picture": "1629006.png",
+    "pos": "Guard",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1630168,
+    "name": "Onyeka Okongwu",
+    "picture": "1630168.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1630171,
+    "name": "Isaac Okoro",
+    "picture": "1630171.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612739
+  },
+  {
+    "id": 203506,
+    "name": "Victor Oladipo",
+    "picture": "203506.png",
+    "pos": "Guard",
+    "teamId": 1610612745
+  },
+  {
+    "id": 203482,
+    "name": "Kelly Olynyk",
+    "picture": "203482.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1630647,
+    "name": "Eugene Omoruyi",
+    "picture": "1630647.png",
+    "pos": "Forward",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1626224,
+    "name": "Cedi Osman",
+    "picture": "1626224.png",
+    "pos": "Forward",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1626162,
+    "name": "Kelly Oubre Jr.",
+    "picture": "1626162.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612755
+  },
+  {
+    "id": 101108,
+    "name": "Chris Paul",
+    "picture": "101108.png",
+    "pos": "Guard",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1626166,
+    "name": "Cameron Payne",
+    "picture": "1626166.png",
+    "pos": "Guard",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1627780,
+    "name": "Gary Payton II",
+    "picture": "1627780.png",
+    "pos": "Guard",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1641809,
+    "name": "Drew Peterson",
+    "picture": "1641809.png",
+    "pos": "Forward",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1630196,
+    "name": "Filip Petrusev",
+    "picture": "1630196.png",
+    "pos": "Center",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1641763,
+    "name": "Julian Phillips",
+    "picture": "1641763.png",
+    "pos": "Forward",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1629618,
+    "name": "Jalen Pickett",
+    "picture": "1629618.png",
+    "pos": "Guard",
+    "teamId": 1610612743
+  },
+  {
+    "id": 203486,
+    "name": "Mason Plumlee",
+    "picture": "203486.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1641764,
+    "name": "Brandin Podziemski",
+    "picture": "1641764.png",
+    "pos": "Guard",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1627751,
+    "name": "Jakob Poeltl",
+    "picture": "1627751.png",
+    "pos": "Center",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1630197,
+    "name": "Aleksej Pokusevski",
+    "picture": "1630197.png",
+    "pos": "Forward",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1629673,
+    "name": "Jordan Poole",
+    "picture": "1629673.png",
+    "pos": "Guard",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1629007,
+    "name": "Jontay Porter",
+    "picture": "1629007.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1641854,
+    "name": "Craig Porter Jr.",
+    "picture": "1641854.png",
+    "pos": "Guard",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1629008,
+    "name": "Michael Porter Jr.",
+    "picture": "1629008.png",
+    "pos": "Forward",
+    "teamId": 1610612743
+  },
+  {
+    "id": 203490,
+    "name": "Otto Porter Jr.",
+    "picture": "203490.png",
+    "pos": "Forward",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1626171,
+    "name": "Bobby Portis",
+    "picture": "1626171.png",
+    "pos": "Forward",
+    "teamId": 1610612749
+  },
+  {
+    "id": 204001,
+    "name": "Kristaps Porzingis",
+    "picture": "204001.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1630695,
+    "name": "Micah Potter",
+    "picture": "1630695.png",
+    "pos": "Center",
+    "teamId": 1610612762
+  },
+  {
+    "id": 203939,
+    "name": "Dwight Powell",
+    "picture": "203939.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1626181,
+    "name": "Norman Powell",
+    "picture": "1626181.png",
+    "pos": "Guard",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1630563,
+    "name": "Joshua Primo",
+    "picture": "1630563.png",
+    "pos": "Guard",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1627752,
+    "name": "Taurean Prince",
+    "picture": "1627752.png",
+    "pos": "Forward",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1630202,
+    "name": "Payton Pritchard",
+    "picture": "1630202.png",
+    "pos": "Guard",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1641765,
+    "name": "Olivier-Maxence Prosper",
+    "picture": "1641765.png",
+    "pos": "Forward",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1630243,
+    "name": "Trevelin Queen",
+    "picture": "1630243.png",
+    "pos": "Guard",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1629674,
+    "name": "Neemias Queta",
+    "picture": "1629674.png",
+    "pos": "Center",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1630193,
+    "name": "Immanuel Quickley",
+    "picture": "1630193.png",
+    "pos": "Guard",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1631311,
+    "name": "Lester Quinones",
+    "picture": "1631311.png",
+    "pos": "Guard",
+    "teamId": 1610612744
+  },
+  {
+    "id": 203944,
+    "name": "Julius Randle",
+    "picture": "203944.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1641871,
+    "name": "Duop Reath",
+    "picture": "1641871.png",
+    "pos": "Center",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1630559,
+    "name": "Austin Reaves",
+    "picture": "1630559.png",
+    "pos": "Guard",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1629629,
+    "name": "Cam Reddish",
+    "picture": "1629629.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1630194,
+    "name": "Paul Reed",
+    "picture": "1630194.png",
+    "pos": "Forward",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1629675,
+    "name": "Naz Reid",
+    "picture": "1629675.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1631197,
+    "name": "Jared Rhoden",
+    "picture": "1631197.png",
+    "pos": "Guard",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1630208,
+    "name": "Nick Richards",
+    "picture": "1630208.png",
+    "pos": "Center",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1626196,
+    "name": "Josh Richardson",
+    "picture": "1626196.png",
+    "pos": "Guard",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1629130,
+    "name": "Duncan Robinson",
+    "picture": "1629130.png",
+    "pos": "Forward",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1629010,
+    "name": "Jerome Robinson",
+    "picture": "1629010.png",
+    "pos": "Guard",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1629011,
+    "name": "Mitchell Robinson",
+    "picture": "1629011.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1631115,
+    "name": "Orlando Robinson",
+    "picture": "1631115.png",
+    "pos": "Center",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1630526,
+    "name": "Jeremiah Robinson-Earl",
+    "picture": "1630526.png",
+    "pos": "Forward",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1631223,
+    "name": "David Roddy",
+    "picture": "1631223.png",
+    "pos": "Forward",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1631157,
+    "name": "Ryan Rollins",
+    "picture": "1631157.png",
+    "pos": "Guard",
+    "teamId": 1610612764
+  },
+  {
+    "id": 201565,
+    "name": "Derrick Rose",
+    "picture": "201565.png",
+    "pos": "Guard",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1626179,
+    "name": "Terry Rozier",
+    "picture": "1626179.png",
+    "pos": "Guard",
+    "teamId": 1610612766
+  },
+  {
+    "id": 201937,
+    "name": "Ricky Rubio",
+    "picture": "201937.png",
+    "pos": "Guard",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1641712,
+    "name": "Rayan Rupert",
+    "picture": "1641712.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1626156,
+    "name": "D'Angelo Russell",
+    "picture": "1626156.png",
+    "pos": "Guard",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1630346,
+    "name": "Matt Ryan",
+    "picture": "1630346.png",
+    "pos": "Forward",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1627734,
+    "name": "Domantas Sabonis",
+    "picture": "1627734.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1629677,
+    "name": "Luka Samanic",
+    "picture": "1629677.png",
+    "pos": "Forward",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1631257,
+    "name": "Jermaine Samuels Jr.",
+    "picture": "1631257.png",
+    "pos": "Forward",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1641766,
+    "name": "Adama Sanogo",
+    "picture": "1641766.png",
+    "pos": "Forward",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1630611,
+    "name": "Gui Santos",
+    "picture": "1630611.png",
+    "pos": "Forward",
+    "teamId": 1610612744
+  },
+  {
+    "id": 203967,
+    "name": "Dario Saric",
+    "picture": "203967.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1630846,
+    "name": "Olivier Sarr",
+    "picture": "1630846.png",
+    "pos": "Center",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1631204,
+    "name": "Marcus Sasser",
+    "picture": "1631204.png",
+    "pos": "Guard",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1629678,
+    "name": "Admiral Schofield",
+    "picture": "1629678.png",
+    "pos": "Forward",
+    "teamId": 1610612753
+  },
+  {
+    "id": 203471,
+    "name": "Dennis Schroder",
+    "picture": "203471.png",
+    "pos": "Guard",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1631220,
+    "name": "Dereon Seabron",
+    "picture": "1631220.png",
+    "pos": "Guard",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1630578,
+    "name": "Alperen Sengun",
+    "picture": "1630578.png",
+    "pos": "Center",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1641729,
+    "name": "Brice Sensabaugh",
+    "picture": "1641729.png",
+    "pos": "Forward",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1629012,
+    "name": "Collin Sexton",
+    "picture": "1629012.png",
+    "pos": "Guard",
+    "teamId": 1610612762
+  },
+  {
+    "id": 1629013,
+    "name": "Landry Shamet",
+    "picture": "1629013.png",
+    "pos": "Guard",
+    "teamId": 1610612764
+  },
+  {
+    "id": 1630549,
+    "name": "Day'Ron Sharpe",
+    "picture": "1630549.png",
+    "pos": "Center",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1631101,
+    "name": "Shaedon Sharpe",
+    "picture": "1631101.png",
+    "pos": "Guard",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1641767,
+    "name": "Ben Sheppard",
+    "picture": "1641767.png",
+    "pos": "Guard",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1627783,
+    "name": "Pascal Siakam",
+    "picture": "1627783.png",
+    "pos": "Forward",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1627732,
+    "name": "Ben Simmons",
+    "picture": "1627732.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1629014,
+    "name": "Anfernee Simons",
+    "picture": "1629014.png",
+    "pos": "Guard",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1630579,
+    "name": "Jericho Sims",
+    "picture": "1630579.png",
+    "pos": "Center",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1631376,
+    "name": "Dmytro Skapintsev",
+    "picture": "1631376.png",
+    "pos": "Center",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1641771,
+    "name": "Jalen Slawson",
+    "picture": "1641771.png",
+    "pos": "Forward",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1630606,
+    "name": "Javonte Smart",
+    "picture": "1630606.png",
+    "pos": "Guard",
+    "teamId": 1610612755
+  },
+  {
+    "id": 203935,
+    "name": "Marcus Smart",
+    "picture": "203935.png",
+    "pos": "Guard",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1630696,
+    "name": "Dru Smith",
+    "picture": "1630696.png",
+    "pos": "Guard",
+    "teamId": 1610612748
+  },
+  {
+    "id": 202397,
+    "name": "Ish Smith",
+    "picture": "202397.png",
+    "pos": "Guard",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1630188,
+    "name": "Jalen Smith",
+    "picture": "1630188.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1631173,
+    "name": "Terquavion Smith",
+    "picture": "1631173.png",
+    "pos": "Guard",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1628372,
+    "name": "Dennis Smith Jr.",
+    "picture": "1628372.png",
+    "pos": "Guard",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1631095,
+    "name": "Jabari Smith Jr.",
+    "picture": "1631095.png",
+    "pos": "Forward",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1641733,
+    "name": "Nick Smith Jr.",
+    "picture": "1641733.png",
+    "pos": "Guard",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1631110,
+    "name": "Jeremy Sochan",
+    "picture": "1631110.png",
+    "pos": "Forward",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1630531,
+    "name": "Jaden Springer",
+    "picture": "1630531.png",
+    "pos": "Guard",
+    "teamId": 1610612755
+  },
+  {
+    "id": 1630205,
+    "name": "Lamar Stevens",
+    "picture": "1630205.png",
+    "pos": "Forward",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1630191,
+    "name": "Isaiah Stewart",
+    "picture": "1630191.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1631124,
+    "name": "Julian Strawther",
+    "picture": "1631124.png",
+    "pos": "Guard",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1629622,
+    "name": "Max Strus",
+    "picture": "1629622.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1630591,
+    "name": "Jalen Suggs",
+    "picture": "1630591.png",
+    "pos": "Guard",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1631306,
+    "name": "Cole Swider",
+    "picture": "1631306.png",
+    "pos": "Forward",
+    "teamId": 1610612748
+  },
+  {
+    "id": 1630256,
+    "name": "Jae'Sean Tate",
+    "picture": "1630256.png",
+    "pos": "Forward",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1628369,
+    "name": "Jayson Tatum",
+    "picture": "1628369.png",
+    "pos": "Forward/Guard",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1630678,
+    "name": "Terry Taylor",
+    "picture": "1630678.png",
+    "pos": "Forward",
+    "teamId": 1610612741
+  },
+  {
+    "id": 202066,
+    "name": "Garrett Temple",
+    "picture": "202066.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1631207,
+    "name": "Dalen Terry",
+    "picture": "1631207.png",
+    "pos": "Forward",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1628464,
+    "name": "Daniel Theis",
+    "picture": "1628464.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1630560,
+    "name": "Cam Thomas",
+    "picture": "1630560.png",
+    "pos": "Guard",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1641708,
+    "name": "Amen Thompson",
+    "picture": "1641708.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1641709,
+    "name": "Ausar Thompson",
+    "picture": "1641709.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612765
+  },
+  {
+    "id": 202691,
+    "name": "Klay Thompson",
+    "picture": "202691.png",
+    "pos": "Guard",
+    "teamId": 1610612744
+  },
+  {
+    "id": 202684,
+    "name": "Tristan Thompson",
+    "picture": "202684.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1630550,
+    "name": "JT Thor",
+    "picture": "1630550.png",
+    "pos": "Forward",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1629680,
+    "name": "Matisse Thybulle",
+    "picture": "1629680.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1630214,
+    "name": "Xavier Tillman",
+    "picture": "1630214.png",
+    "pos": "Forward",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1631210,
+    "name": "Jacob Toppin",
+    "picture": "1631210.png",
+    "pos": "Forward",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1630167,
+    "name": "Obi Toppin",
+    "picture": "1630167.png",
+    "pos": "Forward",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1629308,
+    "name": "Juan Toscano-Anderson",
+    "picture": "1629308.png",
+    "pos": "Forward",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1626157,
+    "name": "Karl-Anthony Towns",
+    "picture": "1626157.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612750
+  },
+  {
+    "id": 1629018,
+    "name": "Gary Trent Jr.",
+    "picture": "1629018.png",
+    "pos": "Guard",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1631131,
+    "name": "Oscar Tshiebwe",
+    "picture": "1631131.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612754
+  },
+  {
+    "id": 200782,
+    "name": "P.J. Tucker",
+    "picture": "200782.png",
+    "pos": "Forward",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1626167,
+    "name": "Myles Turner",
+    "picture": "1626167.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1641816,
+    "name": "Hunter Tyson",
+    "picture": "1641816.png",
+    "pos": "Forward",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1630649,
+    "name": "Stanley Umude",
+    "picture": "1630649.png",
+    "pos": "Guard",
+    "teamId": 1610612765
+  },
+  {
+    "id": 202685,
+    "name": "Jonas Valanciunas",
+    "picture": "202685.png",
+    "pos": "Center",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1627832,
+    "name": "Fred VanVleet",
+    "picture": "1627832.png",
+    "pos": "Guard",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1629020,
+    "name": "Jarred Vanderbilt",
+    "picture": "1629020.png",
+    "pos": "Forward",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1630170,
+    "name": "Devin Vassell",
+    "picture": "1630170.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1628426,
+    "name": "Sasha Vezenkov",
+    "picture": "1628426.png",
+    "pos": "Forward",
+    "teamId": 1610612758
+  },
+  {
+    "id": 1629216,
+    "name": "Gabe Vincent",
+    "picture": "1629216.png",
+    "pos": "Guard",
+    "teamId": 1610612747
+  },
+  {
+    "id": 202696,
+    "name": "Nikola Vucevic",
+    "picture": "202696.png",
+    "pos": "Center",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1629731,
+    "name": "Dean Wade",
+    "picture": "1629731.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612739
+  },
+  {
+    "id": 1630532,
+    "name": "Franz Wagner",
+    "picture": "1630532.png",
+    "pos": "Forward",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1629021,
+    "name": "Moritz Wagner",
+    "picture": "1629021.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612753
+  },
+  {
+    "id": 1630688,
+    "name": "Ish Wainright",
+    "picture": "1630688.png",
+    "pos": "Forward",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1631133,
+    "name": "Jabari Walker",
+    "picture": "1631133.png",
+    "pos": "Forward",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1641716,
+    "name": "Jarace Walker",
+    "picture": "1641716.png",
+    "pos": "Forward",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1629022,
+    "name": "Lonnie Walker IV",
+    "picture": "1629022.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1641717,
+    "name": "Cason Wallace",
+    "picture": "1641717.png",
+    "pos": "Guard",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1641775,
+    "name": "Jordan Walsh",
+    "picture": "1641775.png",
+    "pos": "Guard",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1629023,
+    "name": "P.J. Washington",
+    "picture": "1629023.png",
+    "pos": "Forward",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1631102,
+    "name": "TyTy Washington Jr.",
+    "picture": "1631102.png",
+    "pos": "Guard",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1629139,
+    "name": "Yuta Watanabe",
+    "picture": "1629139.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612756
+  },
+  {
+    "id": 1630322,
+    "name": "Lindy Waters III",
+    "picture": "1630322.png",
+    "pos": "Forward",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1630570,
+    "name": "Trendon Watford",
+    "picture": "1630570.png",
+    "pos": "Forward",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1631212,
+    "name": "Peyton Watson",
+    "picture": "1631212.png",
+    "pos": "Guard",
+    "teamId": 1610612743
+  },
+  {
+    "id": 1641705,
+    "name": "Victor Wembanyama",
+    "picture": "1641705.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612759
+  },
+  {
+    "id": 1631104,
+    "name": "Blake Wesley",
+    "picture": "1631104.png",
+    "pos": "Guard",
+    "teamId": 1610612759
+  },
+  {
+    "id": 201566,
+    "name": "Russell Westbrook",
+    "picture": "201566.png",
+    "pos": "Guard",
+    "teamId": 1610612746
+  },
+  {
+    "id": 1629632,
+    "name": "Coby White",
+    "picture": "1629632.png",
+    "pos": "Guard",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1628401,
+    "name": "Derrick White",
+    "picture": "1628401.png",
+    "pos": "Guard",
+    "teamId": 1610612738
+  },
+  {
+    "id": 1641727,
+    "name": "Dariq Whitehead",
+    "picture": "1641727.png",
+    "pos": "Forward",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1641715,
+    "name": "Cam Whitmore",
+    "picture": "1641715.png",
+    "pos": "Forward",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1630598,
+    "name": "Aaron Wiggins",
+    "picture": "1630598.png",
+    "pos": "Guard",
+    "teamId": 1610612760
+  },
+  {
+    "id": 203952,
+    "name": "Andrew Wiggins",
+    "picture": "203952.png",
+    "pos": "Forward",
+    "teamId": 1610612744
+  },
+  {
+    "id": 1629623,
+    "name": "Lindell Wigginton",
+    "picture": "1629623.png",
+    "pos": "Guard",
+    "teamId": 1610612749
+  },
+  {
+    "id": 1630314,
+    "name": "Brandon Williams",
+    "picture": "1630314.png",
+    "pos": "Guard",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1629684,
+    "name": "Grant Williams",
+    "picture": "1629684.png",
+    "pos": "Forward",
+    "teamId": 1610612742
+  },
+  {
+    "id": 1631114,
+    "name": "Jalen Williams",
+    "picture": "1631114.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1631119,
+    "name": "Jaylin Williams",
+    "picture": "1631119.png",
+    "pos": "Forward",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1629026,
+    "name": "Kenrich Williams",
+    "picture": "1629026.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612760
+  },
+  {
+    "id": 1631109,
+    "name": "Mark Williams",
+    "picture": "1631109.png",
+    "pos": "Center",
+    "teamId": 1610612766
+  },
+  {
+    "id": 1631466,
+    "name": "Nate Williams",
+    "picture": "1631466.png",
+    "pos": "Guard",
+    "teamId": 1610612745
+  },
+  {
+    "id": 1630172,
+    "name": "Patrick Williams",
+    "picture": "1630172.png",
+    "pos": "Forward",
+    "teamId": 1610612741
+  },
+  {
+    "id": 1630533,
+    "name": "Ziaire Williams",
+    "picture": "1630533.png",
+    "pos": "Forward",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1629057,
+    "name": "Robert Williams III",
+    "picture": "1629057.png",
+    "pos": "Center/Forward",
+    "teamId": 1610612757
+  },
+  {
+    "id": 1631246,
+    "name": "Vince Williams Jr.",
+    "picture": "1631246.png",
+    "pos": "Guard",
+    "teamId": 1610612763
+  },
+  {
+    "id": 1629627,
+    "name": "Zion Williamson",
+    "picture": "1629627.png",
+    "pos": "Forward",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1630592,
+    "name": "Jalen Wilson",
+    "picture": "1630592.png",
+    "pos": "Forward",
+    "teamId": 1610612751
+  },
+  {
+    "id": 1629685,
+    "name": "Dylan Windler",
+    "picture": "1629685.png",
+    "pos": "Guard/Forward",
+    "teamId": 1610612752
+  },
+  {
+    "id": 1630164,
+    "name": "James Wiseman",
+    "picture": "1630164.png",
+    "pos": "Center",
+    "teamId": 1610612765
+  },
+  {
+    "id": 1631209,
+    "name": "Isaiah Wong",
+    "picture": "1631209.png",
+    "pos": "Guard",
+    "teamId": 1610612754
+  },
+  {
+    "id": 1626174,
+    "name": "Christian Wood",
+    "picture": "1626174.png",
+    "pos": "Forward",
+    "teamId": 1610612747
+  },
+  {
+    "id": 1626153,
+    "name": "Delon Wright",
+    "picture": "1626153.png",
+    "pos": "Guard",
+    "teamId": 1610612764
+  },
+  {
+    "id": 201152,
+    "name": "Thaddeus Young",
+    "picture": "201152.png",
+    "pos": "Forward",
+    "teamId": 1610612761
+  },
+  {
+    "id": 1629027,
+    "name": "Trae Young",
+    "picture": "1629027.png",
+    "pos": "Guard",
+    "teamId": 1610612737
+  },
+  {
+    "id": 1630209,
+    "name": "Omer Yurtseven",
+    "picture": "1630209.png",
+    "pos": "Center",
+    "teamId": 1610612762
+  },
+  {
+    "id": 203469,
+    "name": "Cody Zeller",
+    "picture": "203469.png",
+    "pos": "Forward/Center",
+    "teamId": 1610612740
+  },
+  {
+    "id": 1627826,
+    "name": "Ivica Zubac",
+    "picture": "1627826.png",
+    "pos": "Center",
+    "teamId": 1610612746
+  }
+]

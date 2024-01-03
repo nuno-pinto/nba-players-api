@@ -1,4 +1,4 @@
-package com.nbaapp;
+package com.nbaapp.scraper;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

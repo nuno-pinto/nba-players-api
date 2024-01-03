@@ -1,4 +1,4 @@
-package com.nbaapp;
+package com.nbaapp.scraper;
 
 import com.nbaapp.models.Player;
 import com.nbaapp.models.Team;
@@ -50,11 +50,11 @@ public class ImageDownloader {
 
             try {
 
-                System.out.println("Downloading logo from the " + team.name() + "...");
+                System.out.println("Downloading logo from the " + team.getName() + "...");
 
-                InputStream in = new URL("https://cdn.nba.com/logos/nba/" + team.id() + "/global/L/logo.svg").openStream();
+                InputStream in = new URL("https://cdn.nba.com/logos/nba/" + team.getId() + "/global/L/logo.svg").openStream();
 
-                Files.copy(in, Paths.get(filePath + team.id() + ".svg"), StandardCopyOption.REPLACE_EXISTING);
+                Files.copy(in, Paths.get(filePath + team.getId() + ".svg"), StandardCopyOption.REPLACE_EXISTING);
 
                 Thread.sleep(200);
 
@@ -75,13 +75,13 @@ public class ImageDownloader {
 
             try {
 
-                System.out.println("Converting logo from the " + team.name() + "...");
+                System.out.println("Converting logo from the " + team.getName() + "...");
 
                 PNGTranscoder transcoder = new PNGTranscoder();
 
-                TranscoderInput input = new TranscoderInput(filePath + team.id() + ".svg");
+                TranscoderInput input = new TranscoderInput(filePath + team.getId() + ".svg");
 
-                OutputStream outputStream = new FileOutputStream(filePath + team.id() + ".png");
+                OutputStream outputStream = new FileOutputStream(filePath + team.getId() + ".png");
                 TranscoderOutput output = new TranscoderOutput(outputStream);
 
                 transcoder.transcode(input, output);
@@ -89,7 +89,7 @@ public class ImageDownloader {
                 outputStream.flush();
                 outputStream.close();
 
-                File oldFile = new File(filePath + team.id() + ".svg");
+                File oldFile = new File(filePath + team.getId() + ".svg");
                 oldFile.delete();
 
             } catch (FileNotFoundException e) {

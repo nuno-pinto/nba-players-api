@@ -1,17 +1,20 @@
 package com.nbaapp.models;
 
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import jakarta.persistence.*;
 
 import java.util.Objects;
 
 @Entity
 @Table(name = "team")
+@JsonSerialize(using = TeamSerializer.class)
 public class Team {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private final Integer id;
-    private final String name;
+    private Integer id;
+    private String name;
+
+    public Team() {}
 
     public Team(int id, String name) {
         this.id = id;
@@ -24,6 +27,14 @@ public class Team {
 
     public String getName() {
         return name;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     @Override
