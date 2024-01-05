@@ -1,0 +1,8 @@
+com/nbaapp/services/TeamService.class
+com/nbaapp/services/PlayerService.class
+com/nbaapp/models/TeamSerializer.class
+com/nbaapp/scraper/NBAJsonParser.class
+com/nbaapp/daos/PlayerDao.class
+com/nbaapp/controllers/PlayerController.class
+com/nbaapp/daos/TeamDao.class
+com/nbaapp/scraper/ImageDownloader.class

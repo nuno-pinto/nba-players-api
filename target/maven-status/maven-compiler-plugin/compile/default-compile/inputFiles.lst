@@ -1,0 +1,12 @@
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/models/PlayerSerializer.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/scraper/ImageDownloader.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/models/Team.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/controllers/PlayerController.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/daos/PlayerDao.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/scraper/NBAJsonParser.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/services/PlayerService.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/Main.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/models/Player.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/daos/TeamDao.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/services/TeamService.java
+/home/esteves/Documents/repos/lab/src/main/java/com/nbaapp/models/TeamSerializer.java
